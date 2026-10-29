@@ -1,0 +1,469 @@
+<?php
+// ---- Page settings ----
+$pageTitle    = "Gum Disease Treatment in Delhi | Expert Periodontal Care – Dental Care N Cure";
+$pageDesc     = "Get effective gum disease treatment in Delhi at Dental Care N Cure. Treat bleeding gums, infection, and gum recession with advanced periodontal care. Book your consultation today for healthier gums.";
+$pageKeywords = "";
+$pageOgTitle  = $pageTitle;
+$pageCanon    = "https://dentalcarencure.com/gum-disease-treatment-in-delhi.html";
+$currentPage  = 'services';
+
+include 'includes/header.php';
+?>
+
+    <style type="text/css">
+        li.blogul {
+            margin-bottom: 20px;
+        }
+
+        body {
+            background: #f8fbff !important;
+        }
+    </style>
+
+        <!-- Page Banner -->
+        <div class="page-banner blog-banner container-fluid no-padding">
+            <div class="container">
+                <h1 class="topheading_spacing">Gum Disease Treatment in Delhi </h1>
+
+
+            </div>
+            <!-- Shape -->
+            <div class="banner-shape container-fluid no-padding">
+                <div class="col-md-6 col-sm-6 col-xs-6 shape-left no-padding">
+                    <div class="left-shape-blue">
+                        <svg width="100%" height="100%">
+                            <clipPath id="clipPolygon2" clipPathUnits="objectBoundingBox">
+                                <polygon points="0 0, 0 100, 120 100, 0 0"></polygon>
+                            </clipPath>
+                        </svg>
+                    </div>
+                    <div class="left-shape">
+                        <svg width="100%" height="100%">
+                            <clipPath id="clipPolygon1" clipPathUnits="objectBoundingBox">
+                                <polygon points="0 0, 0 100, 100 100, 0 0"></polygon>
+                            </clipPath>
+                        </svg>
+                    </div>
+                </div>
+                <div class="col-md-6 col-sm-6 col-xs-6 shape-right no-padding">
+                    <div class="right-shape-blue">
+                        <svg width="100%" height="100%">
+                            <clipPath id="clipPolygon3" clipPathUnits="objectBoundingBox">
+                                <polygon points="1 0.2, 0 1, 0 0.835, 1 0"></polygon>
+                            </clipPath>
+                        </svg>
+                    </div>
+                    <div class="right-shape">
+                        <svg width="100%" height="100%">
+                            <clipPath id="clipPolygon4" clipPathUnits="objectBoundingBox">
+                                <polygon points="1 0, 0 1, 100 100, 100 0"></polygon>
+                            </clipPath>
+                        </svg>
+                    </div>
+                </div>
+            </div><!-- Shape -->
+        </div><!-- Page Banner /- -->
+
+        <!-- Departments Section -->
+        <div class="container blog-section py-5">
+            <div class="row">
+
+                <div class="col-lg-10">
+
+                    <!-- Featured Image -->
+
+
+                    <h2 class="mb-3">Gum Disease Treatment in Delhi | Advanced Solutions for Bleeding &amp; Infected Gums
+
+
+                    </h2>
+
+                    <div class="mb-4 ">
+                        <img src="images/gum-disease-treatment-delhi-bleeding-gums-care.jpg" class="img-fluid rounded shadow-sm"
+                            alt="Gum disease treatment in Delhi showing professional dental care for bleeding, swollen, and infected gums at Dental Care N Cure"
+                            style="width:800px; height:450px; object-fit:contain; border-radius:15px; padding:3px;">
+                    </div>
+
+                    <p>
+                        Good gum health is necessary for healthy teeth, fresh breath, and even confidence while smiling.
+                        However, bleeding gums, swollen gums, sensitive gums, bad breath, and receding gums due to the
+                        presence of infection in your gums cannot be neglected.
+
+
+
+
+
+
+                    </p>
+
+                    <p>
+                        At Dental Care N Cure, we provide <strong> gum disease treatment in Delhi </strong>using
+                        state-of-the-art, tailored treatments for your gum health. Our experts specialize in proper
+                        diagnosis, controlling infection, and safe treatment procedures for your gums.
+
+
+
+                    </p>
+
+                    <p>
+                        No matter how mild or serious the gum problem is, our professionals will help you resolve your
+                        issue regarding gums.
+
+                    </p>
+
+                    <h2 class="mt-4">Understanding Gum Disease
+
+                    </h2>
+
+                    <p>
+                        Gum disease is a mouth infection that affects your gums and the bone surrounding your teeth. The
+                        irritants of bacteria and plaque that collect on the gums make the gums swollen and cause gum
+                        disease.Gum bleeding and inflammation occur in the initial phase of gum disease. It may further
+                        progress to cause the destruction of bone and supporting tissues in the mouth, thus causing
+                        loosening of teeth and loss of teeth.
+
+
+
+                    </p>
+
+                    <p>
+                        Our expert <strong> gum infection doctor in Delhi</strong> at Dental Care N Cure offers
+                        customised treatment for your periodontal problems after assessing the extent of the problem and
+                        offering appropriate <strong>gum disease treatment in Delhi.</strong>
+
+
+                    </p>
+
+                    <h3 class="mt-4">Symptoms That May Indicate Gum Disease
+
+                    </h3>
+
+                    <ul>
+                        <li>Persistent bad breath</li>
+                        <li>Gum pain and sensitivity</li>
+                        <li>Bleeding gums when you brush or floss</li>
+                        <li>Red or inflamed gums</li>
+                        <li>Gum recession causing teeth to appear longer</li>
+                        <li>Loose teeth</li>
+                        <li>Pain while chewing</li>
+                        <li>Increased gaps between teeth</li>
+                        <li>Pus or signs of infection</li>
+                        <li>Bite changes/tooth movement</li>
+                    </ul>
+
+                    <p>
+                        If you have noticed these signs and symptoms, then a visit to a <strong> gum specialist in
+                            Delhi</strong> will surely help you. Early detection and timely <strong> gum disease
+                            treatment in Delhi </strong>can stop the disease progression and save you from permanent
+                        oral damage.
+
+
+                    </p>
+
+
+
+                    <h2>Types and Stages of Gum Disease
+                    </h2>
+
+
+                    <p>
+                        There are two stages when it comes to the development of gum disease:
+
+
+
+                    </p>
+
+                    <ul>
+                        <li><strong>Gingivitis:</strong> Early stage of gum disease (gingivitis), which develops when
+                            tartar accumulates beneath the gums. This causes inflammation, redness, and bleeding during
+                            toothbrushing of the gums. Then, with good cleaning and better daily care, nothing at this
+                            stage of the condition is too difficult to treat. </li>
+
+                        <li><strong>Periodontitis:</strong> It is an advanced stage of gum disease that develops due to
+                            ignoring gingivitis or not getting it treated in time. It involves issues like gum
+                            recession, pocket formation, tooth loosening, and tooth loss.
+                        </li>
+
+
+                    </ul>
+
+                    <p>
+                        An <strong> advanced periodontal disease treatment in Delhi </strong>may comprise deep cleaning
+                        and laser treatment of the gums.
+
+                    </p>
+
+
+
+                    <h3 class="mt-4">Diagnosis of Gum Disease</h3>
+
+                    <p>Before starting treatment, our dentists perform a detailed evaluation to understand the condition
+                        of your gums. Diagnosis may include:</p>
+
+
+
+
+                    <ul>
+                        <li>Checking gum inflammation and bleeding
+                        </li>
+
+                        <li>Evaluating plaque and tartar buildup </li>
+                        <li>Measuring gum pocket depth
+                        </li>
+                        <li>Assessing tooth stability </li>
+
+                    </ul>
+
+                    <p>
+                        According to the examination, a customized <strong> gum disease treatment in Delhi</strong> is
+                        designed for gum health improvement and to prevent any more damage.
+
+
+                    </p>
+
+                    <p>
+                        During the examination, our dentists also assess overall oral function, bite alignment, and
+                        related concerns that may contribute to discomfort. Patients experiencing jaw-related symptoms
+                        may sometimes require further evaluation for <strong> TMJ Treatment in Delhi.</strong>
+
+                    </p>
+
+                    <h2 class="mt-4">Gum Disease Treatment in Delhi at Dental Care N Cure
+
+
+                    </h2>
+
+                    <p>At Dental Care N Cure, our <strong> gum disease treatment in Delhi</strong> is planned according
+                        to the severity of infection and the condition of your gums.
+
+                    </p>
+
+                    <ul>
+                        <li><strong>Professional teeth cleaning:</strong> Professional dental cleaning is often
+                            recommended for gum
+                            bleeding treatment in Delhi, plaque buildup, tartar accumulation, and early-stage gum
+                            infections.</li>
+
+                        <li><strong>Scaling and Root Planing Care:</strong> Scaling and root planing is a cleaning that
+                            is more in-depth
+                            than a normal cleaning and is the removal of bacteria, tartar, and plaque from beneath the
+                            gums.</li>
+
+                        <li><strong>Laser Gum Therapy:</strong> The use of laser gum therapy to treat diseased gum
+                            tissues has been
+                            successfully established, with very satisfactory patient results and very quick healing.
+                        </li>
+
+                        <li><strong>Periodontal Therapy:</strong> Periodontal therapy aims at dealing with bacterial
+                            infection and taking
+                            care of the supporting tissues of your teeth.</li>
+
+                        <li>In severe cases where advanced gum disease has resulted in tooth loss,<strong> Guided Dental
+                                Implant
+                                Surgery in Delhi </strong>may be considered to restore missing teeth and improve oral
+                            function after
+                            gum health has been stabilised.</li>
+
+                        <li><strong>Gum Surgery Therapy:</strong> In case of advanced gum problems, gum surgery might be
+                            needed to treat
+                            infected tissues, reduce pocket depth, and improve gum health.</li>
+
+                        <li><strong>Gum Recession Therapy:</strong> Gum recession therapy is used to treat exposed tooth
+                            roots due to the
+                            problem of receding gums.</li>
+
+                        <li><strong>Antibiotic Gum Therapy:</strong> In some cases, medication-based support may be
+                            combined with other
+                            periodontal treatments to control bacterial infection.</li>
+                    </ul>
+
+                    <p>
+                        A professional <strong> periodontist in Delhi</strong> will help you to understand the best way
+                        suited for your mouth, resulting in good gums and strong teeth. The<strong> best gum disease
+                            treatment in Delhi</strong> depends upon the comprehensive gum evaluation and your
+                        individual requirements.
+
+                    </p>
+
+
+
+                    <h2 class="mt-4">Benefits of Early Gum Disease Treatment</h2>
+
+                    <p>
+                        Professional <strong> gum disease treatment in Delhi</strong> in a timely manner will protect
+                        your gums, help retain your teeth, and prevent any unnecessary problems in dentistry in the
+                        future.
+
+                    </p>
+
+                    <ul>
+                        <li>Less infection and swelling in the gums</li>
+                        <li>Healthy gums and fresh breath</li>
+                        <li>Protection against loose teeth and tooth loss</li>
+                        <li>Improved comfort while eating and brushing</li>
+                        <li>Better smile appearance and confidence</li>
+                    </ul>
+
+                    <p>
+                        If you have gum disease in multiple teeth, or it is impacting the way your bite works or the stability of your mouth, then <strong> Full Mouth Rehabilitation in Delhi</strong> may be suggested.
+
+                    </p>
+
+                    <p>
+                        Patients from <a href="https://dentalcarencure.com/gum-surgery-treatment-in-paschim-vihar.html">Paschim Vihar,</a>  <a href="https://dentalcarencure.com/laser-gum-surgery-treatment-in-punjabi-bagh.html">Punjabi Bagh,</a>  <a href="https://dentalcarencure.com/laser-gum-surgery-treatment-in-meera-bagh.html">Meera Bagh,</a> Rajouri Garden, Janakpuri, Vikaspuri, and nearby West Delhi areas benefit from timely gum disease treatment in Delhi to prevent advanced periodontal issues.
+
+                    </p>
+
+                    <h2  class="mt-4">
+                        Before and After Gum Disease Treatment 
+
+                    </h2>
+
+                    <p>
+                        Successful gum disease therapy is both restoring the health of your gums and making them feel better. With customised treatment and maintenance, you will get healthier gums.
+
+                    </p>
+
+                    <div class="my-4">
+                        <img src="images/before-and-after-gum-surgery-treatment.jpg" class="img-fluid rounded shadow-sm"
+                            alt="Gum disease treatment in Delhi showing professional dental care for bleeding, swollen, and infected gums at Dental Care N Cure"
+                            style="border:1px ; border-radius:15px; padding:3px;">
+                    </div>
+
+
+
+
+
+
+
+                    <p>Gum disease treatment results will vary based on the level of disease and treatment technique.
+
+                    </p>
+
+
+                    <h3 class="mt-4">Real Patient Experiences
+
+                    </h3>
+
+                    <p>
+                      “Every time I brushed my teeth, I had problems with bleeding gums. The procedure at Dental Care N Cure enhanced my gum condition, and my smile feels much healthier.” – Patient, West Delhi. 
+
+
+
+                    </p>
+
+                    <p>"The dentist explained my condition clearly and suggested the right treatment. I am happy with the improvement and overall experience." – Patient, Janakpuri.
+
+                    </p>
+
+
+
+
+
+
+                    <h3 class="mt-4">Frequently Asked Questions About Gum Disease Treatment in Delhi
+
+                    </h3>
+
+                    <p><strong>Is the treatment for gum disease painful?</strong></p>
+
+                    <p>No, most gum disease treatment is not painful. 
+
+                    </p>
+
+                    <p><strong>Can gum disease be reversed non-surgically?
+
+                        </strong></p>
+
+                    <p>Yes – gum disease can be treated non-surgically.
+
+
+                    </p>
+
+                    <p><strong>How long does treatment for gum disease take?
+
+
+                        </strong></p>
+
+                    <p>The treatment time to cure the disease depends on the damage.
+
+
+                    </p>
+
+                    <p><strong>Does gum disease lead to tooth loss?
+
+                        </strong></p>
+
+                    <p>Yes. Gum disease can cause deterioration of the supporting tissue of your teeth if left untreated.
+
+
+                    </p>
+
+                    <p><strong>How to treat aggressive periodontitis?
+
+
+
+                        </strong></p>
+
+                    <p>It is possible to treat even advanced forms of gum disease effectively using deep cleaning and periodontal treatment.
+
+
+
+                    </p>
+
+
+
+
+
+
+
+
+
+                    <h3 class="mt-4">Make an Appointment for a Gum Disease Consultation Now!
+
+
+
+                    </h3>
+
+                    <p>
+                        Prevent gum disease and ensure a healthier mouth through effective <strong> gum disease treatment in Delhi</strong> at Dental Care N Cure. Our services are customized to stop your gums from getting infected, using modern technology. <a href="https://dentalcarencure.com/contact-us.html">Get in touch</a>  with us today for an appointment for healthier gums! 
+
+                    </p>
+
+                    <p>
+                        <a href="tel:+919310999214">Call us today</a> and <a
+                            href="https://dentalcarencure.com/contact-us.html">schedule an appointment</a> for guided
+                        dental implant surgery in Delhi if you wish to restore your smile and better oral function.
+
+
+                    </p>
+
+
+
+                </div>
+
+                <!-- RIGHT SIDEBAR -->
+                <div class="col-lg">
+
+                    <!-- <div class="card shadow-sm p-3 mb-4">
+                        <h5>Related Blogs</h5>
+                        <ul class="list-unstyled mt-3">
+                            <li><a href="#">Why Treat Milk Teeth?</a></li>
+                            <li><a href="#">Oral Health Care in Pregnancy</a></li>
+                            <li><a href="#">Teeth Cleaning vs Teeth Whitening</a></li>
+                            <li><a href="#">How to Prevent Bad Breath</a></li>
+                        </ul>
+                    </div>-->
+
+                    <div class="card shadow-sm p-3">
+                        <h5>Book Consultation</h5>
+                        <p>Get expert Invisalign consultation in Paschim Vihar today.</p>
+                        <a href="contact-us.html" class="btn btn-primary w-100">Book Appointment</a>
+                    </div>
+
+                </div>
+
+            </div>
+        </div><!-- Departments Section /- -->
+
+<?php include 'includes/footer.php'; ?>
