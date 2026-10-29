@@ -1,14 +1,14 @@
 <?php
 // ---- Page settings ----
-$pageTitle   = "Best Dental Clinic in Punjabi Bagh | Dental Care 'N' Cure | Painless Care | Best Dentist in Delhi | Dental Clinic in West Delhi - Dental Care 'N' Cure";
-$pageDesc    = "Dental Care 'N' Cure leading best dental Clinic in Punjabi Bagh. From checkups to cosmetic dentistry, trust our skilled team for your smile’s health. Book now!";
+$pageTitle   = "Best Dental Clinic in Punjabi Bagh | Dental Care 'N' Cure";
+$pageDesc    = "Looking for the best dental clinic in Punjabi Bagh? Visit Dental Care 'N' Cure for expert dental care and advanced treatments. Book your appointment today!";
 $pageOgTitle = $pageTitle;
 $pageCanon   = "https://dentalcarencure.com/best-dental-clinic-in-punjabi-bagh.php";
 $currentPage = 'services';
 
 // ---- The Main Dental Services We Offer ----
 $serviceList = [
-    ['Root Canal and Tooth Restoration:', 'Tooth decay problem solved in one appointment, being quick, painless <a href="https://dentalcarencure.com/https:/dentalcarencure.com/root-canal.html"><strong>root canal treatment,</strong></a> crowns, and veneers to rescue and maintain teeth.'],
+    ['Root Canal and Tooth Restoration:', 'Tooth decay problem solved in one appointment, being quick, painless <a href="root-canal.php"><strong>root canal treatment,</strong></a> crowns, and veneers to rescue and maintain teeth.'],
     ['Dental Implants and Tooth Replacement:', 'An implant for tooth replacement will have the same strength as a natural one, the same color and shape as a natural one.'],
     ['Cosmetic Dentistry:', 'Lasting smile in not just the older but also a younger way through teeth whitening, smile makeovers, and other forms of cosmetic modification.'],
     ['Orthodontics and Teeth Alignment:', 'A confident smile is ready for you with straightened teeth, either using invisible aligners or metal braces.'],
@@ -158,7 +158,7 @@ include 'includes/header.php';
                             personalized and comfortable care.
                             If you are looking for the complete range of dental services to be available at a more
                             convenient location, then you should go to oura
-                        <a href="https://dentalcarencure.com/dental-clinic-in-paschim-vihar"><strong>Dental Clinic in Paschim Vihar.</strong></a> 
+                        <a href="https://dentalcarencure.com/dental-clinic-in-paschim-vihar.php"><strong>Dental Clinic in Paschim Vihar.</strong></a> 
                             Don't wait and have your appointment made right now so that you can take the very first step
                             towards a smile that is healthier, more confident, and more radiant with the <strong>best dental
                             clinic in Punjabi Bagh.</strong>

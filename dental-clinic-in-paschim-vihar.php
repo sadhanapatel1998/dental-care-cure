@@ -1,6 +1,6 @@
 <?php
 // ---- Page settings ----
-$pageTitle   = "Best Dental Clinic in Paschim Vihar | Best Dentist in Delhi | Dental Clinic in West Delhi - Dental Care 'N' Cure";
+$pageTitle   = "Best Dental Clinic in Paschim Vihar | Dental Care N Cure";
 $pageDesc    = "Best Dental Clinic in Paschim Vihar offering painless, advanced dental treatments by experienced specialists. Book your appointment today: +91-9310999214";
 $pageOgTitle = $pageTitle;
 $pageCanon   = "https://dentalcarencure.com/dental-clinic-in-paschim-vihar.php";

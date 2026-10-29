@@ -1,7 +1,7 @@
 <?php
 // ---- Page settings ----
-$pageTitle    = "Painless Dental Treatments in Paschim Vihar | Expert Care Dental Clinic in West Delhi - Dental Care 'N' Cure";
-$pageDesc     = "Get painless dental treatments in Paschim Vihar with advanced technology and expert dentists. Comfortable, safe, and affordable dental care for all ages.";
+$pageTitle    = "Teeth Aligners Treatment in Paschim Vihar | Dental Care 'N' Cure";
+$pageDesc     = "Get teeth aligners treatment in Paschim Vihar at Dental Care 'N' Cure. Straighten your teeth with comfortable, discreet aligners for a confident smile.";
 $pageKeywords = "";
 $pageOgTitle  = $pageTitle;
 $pageCanon    = "https://dentalcarencure.com/teeth-aligners-treatment-in-paschim-vihar.php";

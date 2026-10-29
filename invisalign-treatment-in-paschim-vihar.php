@@ -1,8 +1,8 @@
 <?php
 // ---- Page settings ----
-$pageTitle    = "Best Dental Clinic for International Patients Abroad Guide";
-$pageDesc     = "Find the best dental clinic for international patients abroad. Compare safety, cost, and quality—book your trusted dental consultation today.";
-$pageKeywords = "Diagram showing the 4 types of human teeth—incisors, canines, premolars, and molars with their structure and functions";
+$pageTitle    = "Invisalign treatment in Paschim Vihar | Dental Care 'N' Cure";
+$pageDesc     = "Get Invisalign treatment in Paschim Vihar at Dental Care 'N' Cure. Straighten your teeth with clear, comfortable aligners for a confident smile.";
+$pageKeywords = "";
 $pageOgTitle  = $pageTitle;
 $pageCanon    = "https://dentalcarencure.com/invisalign-treatment-in-paschim-vihar.php";
 $currentPage  = 'services';

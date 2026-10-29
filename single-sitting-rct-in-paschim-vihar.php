@@ -1,6 +1,6 @@
 <?php
 // ---- Page settings ----
-$pageTitle    = "Single Sitting RCT in Paschim Vihar | Dental Care ‘N’ Cure Expert Care Dental Clinic in West Delhi - Dental Care 'N' Cure";
+$pageTitle    = "Single Sitting RCT in Paschim Vihar | Dental Care 'N' Cure";
 $pageDesc     = "Get painless single sitting RCT in Paschim Vihar at Dental Care ‘N’ Cure. Advanced technology, expert dentists & quick relief. Book now!";
 $pageKeywords = "";
 $pageOgTitle  = $pageTitle;

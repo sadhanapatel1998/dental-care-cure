@@ -1,7 +1,7 @@
 <?php
 // ---- Page settings ----
-$pageTitle    = "Full Mouth Rehabilitation in Paschim Vihar | Painless Care | Best Dentist in Delhi | Dental Clinic in West Delhi - Dental Care 'N' Cure";
-$pageDesc     = "Get expert gum surgery treatment in Paschim Vihar. Painless, advanced, and safe procedures to restore healthy gums and enhance your smile.";
+$pageTitle    = "Full Mouth Rehabilitation in Paschim Vihar | Dental Care N Cure";
+$pageDesc     = "Restore your smile with full mouth rehabilitation in Paschim Vihar at Dental Care N Cure. Get personalized dental care for a healthy, confident smile.";
 $pageKeywords = "";
 $pageOgTitle  = $pageTitle;
 $pageCanon    = "https://dentalcarencure.com/full-mouth-rehabilitation-in-paschim-vihar.php";

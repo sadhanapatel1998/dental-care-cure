@@ -1,10 +1,10 @@
 <?php
 // ---- Page settings ----
-$pageTitle    = "Gum Surgery Treatment in Paschim Vihar by Dr Mansi Punia | Best Dentist in Delhi | Dental Clinic in West Delhi - Dental Care 'N' Cure";
+$pageTitle    = "Gum Surgery Treatment in Paschim Vihar by Dr Mansi Punia";
 $pageDesc     = "Get expert gum surgery treatment in Paschim Vihar. Painless, advanced, and safe procedures to restore healthy gums and enhance your smile.";
 $pageKeywords = "";
 $pageOgTitle  = $pageTitle;
-$pageCanon    = "https://dentalcarencure.com/gum-surgery-treatment-in-paschim-vihar.html";
+$pageCanon    = "https://dentalcarencure.com/gum-surgery-treatment-in-paschim-vihar.php";
 $currentPage  = 'services';
 
 include 'includes/header.php';
@@ -182,7 +182,7 @@ include 'includes/header.php';
                         <h3>Book a dental care appointment today! </h3>
                         <p>
 
-                           The gums will remain firm and healthy, hence the patient will have the smiling confidence with the professional treatment given by Dr. Mansi Arora Punia at Dental Care N Cure. Our <strong> gum surgery treatment in Paschim Vihar and Laser Gum treatment in Paschim Vihar </strong> are safe and advanced, aimed at minimal discomfort, accurate results, and durable oral health. Don’t let gum problems grow worse—schedule your consultation appointme+nt today and embark on the healthy and bright smile journey. We also provide a smile makeover, full mouth rehabilitation, and <a href="https://dentalcarencure.com/tmj-disorder-treatment-in-paschim-vihar">TMJ disorder Treatment in Paschim Vihar</a>  for complete dental care under one roof.
+                           The gums will remain firm and healthy, hence the patient will have the smiling confidence with the professional treatment given by Dr. Mansi Arora Punia at Dental Care N Cure. Our <strong> gum surgery treatment in Paschim Vihar and Laser Gum treatment in Paschim Vihar </strong> are safe and advanced, aimed at minimal discomfort, accurate results, and durable oral health. Don’t let gum problems grow worse—schedule your consultation appointme+nt today and embark on the healthy and bright smile journey. We also provide a smile makeover, full mouth rehabilitation, and <a href="https://dentalcarencure.com/tmj-disorder-treatment-in-paschim-vihar.php">TMJ disorder Treatment in Paschim Vihar</a>  for complete dental care under one roof.
 
 
  	

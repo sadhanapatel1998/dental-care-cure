@@ -1,7 +1,7 @@
 <?php
 // ---- Page settings ----
-$pageTitle   = "Painless Dental Treatments in Paschim Vihar | Dental Care ‘N’ Cure | Best Dentist in Delhi | Dental Clinic in West Delhi - Dental Care 'N' Cure";
-$pageDesc    = "Experience painless dental treatments in Paschim Vihar at Dental Care ‘N’ Cure. Advanced care, gentle dentists & lasting results. Book now!";
+$pageTitle   = "Best Dental Clinic in Delhi | Dental Care 'N' Cure";
+$pageDesc    = "Looking for the best dentist in Delhi? Visit Dental Care 'N' Cure for quality dental care, expert consultation, and personalized treatment.";
 $pageOgTitle = $pageTitle;
 $pageCanon   = "https://dentalcarencure.com/best-dental-clinic-in-delhi.php";
 $currentPage = 'services';
@@ -12,7 +12,7 @@ $teamList = [
     ['Dr. Aditi Poddar Sharma – Consulting orthodontist:', 'Offers braces and aligners treatment for making teeth straight and offers expert orthodontic solutions for precise teeth alignment and confident smiles.'],
     ['Dr. Rupali Kalsi – BDS, MDS:',                    'Good at making patients at ease and giving them good oral health through his gentler methods, besides being an efficient dentist.'],
     ['Dr. Arun Sharma – BDS, MDS:',                     'His focus in advanced procedures is on the right technique, comfort, and lasting treatment outcome.'],
-    ['Dr. Jyoti Acharya Anand – BDS:',                  'He is the  <strong><a href="https://dentalcarencure.com/">best dentist in Delhi</a> </strong> who treats children and adults with all the attentiveness and friendliness that a patient deserves, especially when it comes to general or preventive dentistry.'],
+    ['Dr. Jyoti Acharya Anand – BDS:',                  'He is the  <strong>best dentist in Delhi</strong> who treats children and adults with all the attentiveness and friendliness that a patient deserves, especially when it comes to general or preventive dentistry.'],
 ];
 
 // ---- Our dental care includes ----
@@ -77,7 +77,7 @@ include 'includes/header.php';
 
                     <div>
 
-                        <h3>Dental Care N Cure –  Best Dental Clinic in Delhi for Complete Oral Care</h3>
+                        <h2>Dental Care N Cure – Best Dental Clinic in Delhi for Complete Oral Care</h2>
                         <p>
                             <img src="images/painless-dental-treatments-in-paschim-vihar.png" class="imgphone"
                                 alt="Dental Crown" title="Dental Crown"><strong></strong><br />
@@ -96,7 +96,7 @@ include 'includes/header.php';
                         </p>
 
                         <ul class="listitem">
-                            <p><strong>Team of professionals at Dental Care N Cure </strong><br />
+                            <h2>Team of Professionals at Dental Care N Cure</h2>
                             <p>We have the <strong>best dentist in Delhi, </strong>who is not only extremely proficient but also very
                                 compassionate. Each of the specialists has their own unique set of abilities and will
                                 treat the patient depending on his/her requirements in order to guarantee the best
@@ -107,7 +107,7 @@ include 'includes/header.php';
                             <?php endforeach; ?>
                         </ul>
 
-                        <strong>Clinic Facilities & Technology</strong><br />
+                        <h2>Advanced Dental Clinic Facilities & Technology</h2>
 
                         At Dental Care N Cure, we strive to use the most modern dental technology along with a very
                         welcoming atmosphere to offer precise treatment and a very calming experience. Our use of
@@ -120,8 +120,8 @@ include 'includes/header.php';
                         for each person that comes into our best dental  <strong>clinic in Delhi.</strong>
 
                         <ul class="listitem">
-                            <h3><strong>Our dental care includes:
-                                </strong></h3>
+                            <h2>Our Dental Care Services and Patient Benefits</h2>
+
                             <p>We put in the most effort for comfortable, good, and high-quality dental care as per
                                 individuals' needs. Here are the reasons that distinguish us as the <strong>  best dental clinic
                                 in Delhi:</strong> </p>
@@ -131,7 +131,7 @@ include 'includes/header.php';
                             <?php endforeach; ?>
                         </ul>
 
-                        <h3>Completing Care All in One Place – Trusted by Thousands</h3>
+                        <h2>Comprehensive Dental Care – Trusted by Our Patients</h2>
                         <p>
 
                             Our patient-centric approach, the latest dental technology, and consistent results have
@@ -148,7 +148,7 @@ include 'includes/header.php';
                             dependable, and top-notch dental care under one roof.
                         </p>
 
-                        <h3>Book An Appointment Now</h3>
+                        <h2>Book an Appointment with the Best Dentist in Delhi</h2>
                         <p>With one easy step, you will not only look perfect but also your smile will be full of
                             self-assurance. The<strong> best dentist in Delhi</strong> is here waiting for you to provide the best dental
                             care; we are also here to assist you all the time. Come to our <strong>best dental clinic in Delhi</strong>
