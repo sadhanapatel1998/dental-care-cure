@@ -397,3 +397,4 @@ include 'includes/header.php';
         </div><!-- Departments Section /- -->
 
 <?php include 'includes/footer.php'; ?>
+

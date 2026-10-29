@@ -18,16 +18,12 @@ function navActive($page, $current)
 
 <head>
     <meta charset="utf-8">
-
     <title><?= htmlspecialchars($pageTitle) ?></title>
-
     <meta name="description" content="<?= htmlspecialchars($pageDesc) ?>" />
     <?php if (!empty($pageKeywords)): ?>
         <meta name="keywords" content="<?= htmlspecialchars($pageKeywords) ?>">
     <?php endif; ?>
     <meta name="robots" content="index, follow" />
-   
-
     <meta name="distribution" content="Global" />
     <meta name="language" content="EN-US" />
     <meta name="classification" content="Healthcare" />
@@ -49,19 +45,16 @@ function navActive($page, $current)
             ]
         }
     </script>
-
     <meta property="og:type" content="website">
     <meta property="og:title" content="<?= htmlspecialchars($pageOgTitle) ?>">
     <meta property="og:url" content="<?= htmlspecialchars($pageCanon) ?>">
     <meta property="og:image" content="<?= htmlspecialchars($pageImage) ?>">
     <meta property="og:description" content="<?= htmlspecialchars($pageDesc) ?>">
-
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="<?= htmlspecialchars($pageOgTitle) ?>">
     <meta name="twitter:site" content="@DentalCareNCure">
     <meta name="twitter:description" content="<?= htmlspecialchars($pageDesc) ?>">
     <meta name="twitter:image" content="<?= htmlspecialchars($pageImage) ?>">
-
     <link rel="canonical" href="<?= htmlspecialchars($pageCanon) ?>" />
     <link rel="stylesheet" type="text/css" href="libraries/loader/loaders.min.css" />
     <link rel="stylesheet" type="text/css" href="libraries/bootstrap/bootstrap.min.css" />
@@ -80,9 +73,7 @@ function navActive($page, $current)
     <link rel="icon" type="image/png" sizes="16x16" href="images/favicon.ico">
     <link rel='stylesheet' href='https://cdn.rawgit.com/michalsnik/aos/2.0.4/dist/aos.css'>
     <script src='https://cdn.rawgit.com/michalsnik/aos/2.0.4/dist/aos.js'></script>
-
     <meta name="google-site-verification" content="FKlZnBEjqjoOBpKOemSSoHBbj1FAZRQh4SpGq6a2xmE" />
-
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-4G2C4ZHX8E"></script>
     <script>
@@ -94,7 +85,6 @@ function navActive($page, $current)
         gtag('js', new Date());
         gtag('config', 'G-4G2C4ZHX8E');
     </script>
-
     <!-- Google Tag Manager -->
     <script>
         (function(w, d, s, l, i) {
