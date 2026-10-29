@@ -432,15 +432,15 @@ include 'includes/header.php';
                 <?php
                 // Title block (What we do best) 5th position pe aata hai (index 4)
                 $services = [
-                    ['cosmetic_dentistry.jpg', 'cosmetic-dentistry.html', 'Cosmetic Dentistry'],
-                    ['dental-crown.jpg',       'dental-crowns.html',      'Dental Crowns &amp; Tooth Bridges'],
-                    ['dental-implant.jpg',     'dental-implant.html',     'Dental Implants'],
-                    ['dental-oral.jpg',        'oral-surgery.html',       'Oral Surgery'],
+                    ['cosmetic_dentistry.jpg', 'cosmetic-dentistry.php', 'Cosmetic Dentistry'],
+                    ['dental-crown.jpg',       'dental-crowns.php',      'Dental Crowns &amp; Tooth Bridges'],
+                    ['dental-implant.jpg',     'dental-implant.php',     'Dental Implants'],
+                    ['dental-oral.jpg',        'oral-surgery.php',       'Oral Surgery'],
                     'TITLE',
-                    ['dental-ortho.jpg',       'orthodontics.html',       'Orthodontics'],
-                    ['dental-root.jpg',        'root-canal.html',         'Root Canals'],
-                    ['dental-smile.jpg',       'smile-design.html',       'Smile Design'],
-                    ['dental-teeth-white.jpg', 'teeth-whitening.html',    'TEETH WHITENING'],
+                    ['dental-ortho.jpg',       'orthodontics.php',       'Orthodontics'],
+                    ['dental-root.jpg',        'root-canal.php',         'Root Canals'],
+                    ['dental-smile.jpg',       'smile-design.php',       'Smile Design'],
+                    ['dental-teeth-white.jpg', 'teeth-whitening.php',    'TEETH WHITENING'],
                 ];
                 foreach ($services as $svc):
                     if ($svc === 'TITLE'): ?>
@@ -549,7 +549,7 @@ include 'includes/header.php';
                     </div>
                     <?php endforeach; ?>
                 </div>
-                <a title="View All Doctors" href="team.html" data-aos="zoom-in">View All Doctors<i class="fa fa-plus"></i></a>
+                <a title="View All Doctors" href="team.php" data-aos="zoom-in">View All Doctors<i class="fa fa-plus"></i></a>
             </div>
         </div>
         <!-- Team Section /- -->
@@ -566,7 +566,7 @@ include 'includes/header.php';
                     // Naya blog add karna ho to bas yahan ek entry upar daal do
                     $blogs = [
                         [
-                            'url'     => 'how-long-does-a-dental-implant-take.html',
+                            'url'     => 'how-long-does-a-dental-implant-take.php',
                             'image'   => 'images/how-long-does-a-dental-implant-take.jpg',
                             'title'   => 'How Long Does a Dental Implant Take From Start to Finish?',
                             'date'    => 'September 28, 2026',
@@ -574,7 +574,7 @@ include 'includes/header.php';
                             'excerpt' => 'If you are considering a dental implant, one of the first questions you will probably ask is: how long does a dental implant take? The honest answer is that there is no single timeline for everyone.',
                         ],
                         [
-                            'url'     => 'what-to-eat-before-a-dental-appointment.html',
+                            'url'     => 'what-to-eat-before-a-dental-appointment.php',
                             'image'   => 'images/what-to-eat-before-a-dental-appointment.jpg',
                             'title'   => 'What to Eat Before a Dental Appointment: Foods to Choose &amp; Avoid',
                             'date'    => 'September 21, 2026',
@@ -582,7 +582,7 @@ include 'includes/header.php';
                             'excerpt' => 'If you are wondering what to eat before a dental appointment, the good news is that you usually do not need to overthink it. For a routine dental examination or cleaning, most people can eat normally unless their dentist has given different instructions.',
                         ],
                         [
-                            'url'     => 'bone-health-for-dental-implants.html',
+                            'url'     => 'bone-health-for-dental-implants.php',
                             'image'   => 'images/bone-health-for-dental-implants.jpg',
                             'title'   => 'Why Bone Health Matters Before Getting Dental Implants',
                             'date'    => 'September 14, 2026',
@@ -611,7 +611,7 @@ include 'includes/header.php';
                     <?php endforeach; ?>
                 </section>
 
-                <a title="View All Blogs" href="blog.html" data-aos="zoom-in">View All Blogs<i class="fa fa-plus"></i></a>
+                <a title="View All Blogs" href="blog.php" data-aos="zoom-in">View All Blogs<i class="fa fa-plus"></i></a>
             </div>
         </div>
         <!-- Blog Section /- -->

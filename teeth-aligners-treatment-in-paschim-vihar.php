@@ -4,7 +4,7 @@ $pageTitle    = "Painless Dental Treatments in Paschim Vihar | Expert Care Denta
 $pageDesc     = "Get painless dental treatments in Paschim Vihar with advanced technology and expert dentists. Comfortable, safe, and affordable dental care for all ages.";
 $pageKeywords = "";
 $pageOgTitle  = $pageTitle;
-$pageCanon    = "https://dentalcarencure.com/teeth-aligners-treatment-in-paschim-vihar.html";
+$pageCanon    = "https://dentalcarencure.com/teeth-aligners-treatment-in-paschim-vihar.php";
 $currentPage  = 'services';
 
 include 'includes/header.php';
@@ -186,7 +186,7 @@ include 'includes/header.php';
                             and invisibly? Dental Care N Cure presents a patient-centric care that is guided by the
                             expert and designed around your needs and lifestyle. In case you also have jaw pain or
                             discomfort, consider going for our TMJ Disorder Treatment in Paschim Vihar for total oral
-                            health. <a href="https://dentalcarencure.com/contact-us.html"><strong>Schedule your appointment
+                            health. <a href="https://dentalcarencure.com/contact-us.php"><strong>Schedule your appointment
                             </strong></a>and begin your transformation with us.
                         </p>
 

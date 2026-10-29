@@ -121,7 +121,7 @@ include 'includes/header.php';
                         be examined thoroughly. Dental Care 'N' Cure should have a proven track record, with many years
                         of experience backed by professional certifications and case studies to attest to their quality
                         of work. Clinics that offer complex procedures for <strong><a
-                                href="https://dentalcarencure.com/dental-implant-treatment-in-paschim-vihar.html">dental
+                                href="https://dentalcarencure.com/dental-implant-treatment-in-paschim-vihar.php">dental
                                 implant treatment in Paschim Vihar</a></strong> have before and after pictures, patient
                         and client reviews, and explanations of their procedures. Such elements show expertise and
                         transparency required in establishing trust with the international patients. 
@@ -146,7 +146,7 @@ include 'includes/header.php';
 
                     </p>
                     <p><strong>Explore More :</strong> <strong> <a
-                                href="https://dentalcarencure.com/best-invisalign-dentist-paschim-vihar.html">Confused
+                                href="https://dentalcarencure.com/best-invisalign-dentist-paschim-vihar.php">Confused
                                 About Braces? Discover Invisalign Treatment in Paschim Vihar Today</a></strong>
                     </p>
 
@@ -179,7 +179,7 @@ include 'includes/header.php';
                         dispels communication errors and keeps the patient at ease with their decisions. 
                     </p>
                     <p>Many patients searching for the <strong> <a
-                                href="https://dentalcarencure.com/best-dental-clinic-in-delhi.html">best dental clinic
+                                href="https://dentalcarencure.com/best-dental-clinic-in-delhi.php">best dental clinic
                                 in Delhi</a></strong> value clinics that appoint dedicated coordinators to deal with
                         scheduling, documentation, and guidance on travel. The communication strategy guarantees that
                         patients receive all updates through their dedicated coordinator who will maintain ongoing
@@ -302,7 +302,7 @@ include 'includes/header.php';
                     <div class="card shadow-sm p-3">
                         <h5>Book Consultation</h5>
                         <p>Invisalign Treatment Plan</p>
-                        <a href="contact-us.html" class="btn btn-primary w-100">Book Appointment</a>
+                        <a href="contact-us.php" class="btn btn-primary w-100">Book Appointment</a>
                     </div>
 
                 </div>

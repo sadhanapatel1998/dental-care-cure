@@ -4,7 +4,7 @@ $pageTitle    = "Full Mouth Rehabilitation in Meera Bagh | Dental Care N Cure";
 $pageDesc     = "Restore your smile and dental function with expert Full Mouth Rehabilitation in Meera Bagh. Personalized, comfortable, and long-lasting results at Dental Care N Cure.";
 $pageKeywords = "full mouth rehabilitation in Meera Bagh";
 $pageOgTitle  = $pageTitle;
-$pageCanon    = "https://dentalcarencure.com/full-mouth-rehabilitation-in-meera-bagh.html";
+$pageCanon    = "https://dentalcarencure.com/full-mouth-rehabilitation-in-meera-bagh.php";
 $currentPage  = 'services';
 
 include 'includes/header.php';
@@ -141,7 +141,7 @@ include 'includes/header.php';
                         <h3>Why Choose Dental Care N Cure in Meera Bagh</h3>
 
                         <p>
-                            With an accreditation of being the finest dental clinic in Meera Bagh, we use the latest technological innovations along with well-experienced professionals who pay utmost importance to the comfort and outcomes of our patients. Our dentists have the capacity to perform accurate, successful, and <a href="https://dentalcarencure.com/painless-dental-treatments-in-paschim-vihar.html" 
+                            With an accreditation of being the finest dental clinic in Meera Bagh, we use the latest technological innovations along with well-experienced professionals who pay utmost importance to the comfort and outcomes of our patients. Our dentists have the capacity to perform accurate, successful, and <a href="https://dentalcarencure.com/painless-dental-treatments-in-paschim-vihar.php" 
    title="Painless Dental Procedures in Paschim Vihar">
    <strong>Painless Dental Procedures in Paschim Vihar</strong>
 </a>making even the most intricate tasks hassle-free. In addition to the Full Mouth Rehabilitation treatment, one can also avail the option of <strong> Smile Makeover Treatment in Meera Bagh </strong> or <strong> Single Sitting RCT in Paschim Vihar.</strong>

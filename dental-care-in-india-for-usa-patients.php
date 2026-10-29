@@ -3,7 +3,7 @@
 $pageTitle   = "Dental Care in India for USA Patients, NRIs & Tourists | Expert Guide";
 $pageDesc    = "Discover affordable dental care in India for USA patients, NRIs & tourists. Get expert treatment, smile makeover options, and trusted clinic guidance.";
 $pageOgTitle = "Dental Care in India for USA Patients, NRIs & Tourists | Expert Guide";
-$pageCanon   = "https://dentalcarencure.com/dental-care-in-india-for-usa-patients.html";
+$pageCanon   = "https://dentalcarencure.com/dental-care-in-india-for-usa-patients.php";
 $currentPage = 'dental-tourism';
 
 include 'includes/header.php';
@@ -97,7 +97,7 @@ include 'includes/header.php';
 
                     <p>
                         Most of the patients also seek the <strong><a
-                                href="https://dentalcarencure.com/best-dental-clinic-in-delhi.html">Best dentist in
+                                href="https://dentalcarencure.com/best-dental-clinic-in-delhi.php">Best dentist in
                                 Delhi </a></strong> when they find a clinic because Delhi
                         has high facilities and has internationally trained professionals. Dental Care clinics such as
                         <strong>Dental Care N Cure </strong> are listed on Google My Business where patients can easily
@@ -259,7 +259,7 @@ include 'includes/header.php';
                         </li>
                         <li><strong>Location Accessibility</strong> :
                             Areas like Paschim Vihar in Delhi have well-known clinics. Searching for the <a
-                                href="https://dentalcarencure.com/dental-clinic-in-paschim-vihar.html">Best dental</a>
+                                href="https://dentalcarencure.com/dental-clinic-in-paschim-vihar.php">Best dental</a>
                             clinic in Paschim Vihar can help narrow down reliable options.
 
                         </li>
@@ -482,7 +482,7 @@ include 'includes/header.php';
                     <div class="card shadow-sm p-3">
                         <h5>Book Consultation</h5>
                         <p>Invisalign Treatment Plan</p>
-                        <a href="contact-us.html" class="btn btn-primary w-100">Book Appointment</a>
+                        <a href="contact-us.php" class="btn btn-primary w-100">Book Appointment</a>
                     </div>
 
                 </div>

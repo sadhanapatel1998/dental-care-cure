@@ -4,7 +4,7 @@ $pageTitle    = "Full Mouth Rehabilitation in Punjabi Bagh | Dental Care N Cure"
 $pageDesc     = "Get expert Full Mouth Rehabilitation in Punjabi Bagh. Restore function, aesthetics, and confidence with personalized dental care at Dental Care N Cure.";
 $pageKeywords = "Full Mouth Rehabilitation in Punjabi Bagh";
 $pageOgTitle  = $pageTitle;
-$pageCanon    = "https://dentalcarencure.com/full-mouth-rehabilitation-in-punjabi-bagh.html";
+$pageCanon    = "https://dentalcarencure.com/full-mouth-rehabilitation-in-punjabi-bagh.php";
 $currentPage  = 'services';
 
 include 'includes/header.php';
@@ -145,7 +145,7 @@ include 'includes/header.php';
                             Dental Care N Cure is where you can begin the journey to a smile that is healthy,
                             functional, and full of confidence. Our talented and experienced professionals carry out the
                             <strong>full mouth rehabilitation in Punjabi Bagh </strong> by using advanced techniques together with
-                            restorative and cosmetic procedures, depending on your specific needs. <strong><a href="https://dentalcarencure.com/contact-us.html">Book your appointment </a> </strong>
+                            restorative and cosmetic procedures, depending on your specific needs. <strong><a href="https://dentalcarencure.com/contact-us.php">Book your appointment </a> </strong>
                             easily or <strong><a href="https://www.google.com/maps/dir//Dental+Care+N+Cure+Clinic,+D2,+1st+Floor,+Shubham+Enclave,+Jwala+Heri+Main+Rd,+opp.+District+Park,+Shubham+Enclave,+Reserve+Bank+Enclave,+Paschim+Vihar,+Delhi,+110063/@28.4229632,77.3128192,12406m/data=!3m1!1e3!4m8!4m7!1m0!1m5!1m1!1s0x390d03861f0df899:0xf96a389097700045!2m2!1d77.0968048!2d28.668871?entry=tts&amp;g_ep=EgoyMDI2MDIyNS4wIPu8ASoASAFQAw%3D%3D&amp;skid=ee64c556-4b39-4b38-aca0-fb2eef2f0b47">visit us</a>  </strong>directly at our trusted dental clinic in Punjabi Bagh, proudly serving
                             thousands of happy patients.
 
@@ -154,7 +154,7 @@ include 'includes/header.php';
                         <ul class="listitem"> <strong>Our Other Locations:</strong>
 
 
-                            <li><strong><a href="https://dentalcarencure.com/full-mouth-rehabilitation-in-paschim-vihar.html">Full Mouth Rehabilitation in Paschim vihar –</a> </strong> Avail Full Mouth Rehabilitation, Smile Makeover, and other dental treatments with the same expert care and advanced technology.</li>
+                            <li><strong><a href="https://dentalcarencure.com/full-mouth-rehabilitation-in-paschim-vihar.php">Full Mouth Rehabilitation in Paschim vihar –</a> </strong> Avail Full Mouth Rehabilitation, Smile Makeover, and other dental treatments with the same expert care and advanced technology.</li>
 
                             <li><strong> Full Mouth Rehabilitation in Meera Bagh –</strong>  Receive comprehensive dental services, including cosmetic and restorative dentistry, at our conveniently located clinic. </li>
 

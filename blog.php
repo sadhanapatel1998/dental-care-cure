@@ -25,7 +25,7 @@ HTML;
 // Optional 'metaClass': agar na do to default 'post-item__meta' use hota hai
 $posts = [
     [
-        'href'     => 'how-long-does-a-dental-implant-take.html',
+        'href'     => 'how-long-does-a-dental-implant-take.php',
         'image'    => 'images/how-long-does-a-dental-implant-take.jpg',
         'title'    => 'How Long Does a Dental Implant Take From Start to Finish?',
         'date'     => 'September 28, 2026',
@@ -33,7 +33,7 @@ $posts = [
         'excerpt'  => "If you are considering a dental implant, one of the first questions you will probably ask is: how long does a dental implant take? The honest answer is that there is no single timeline for everyone.",
     ],
     [
-        'href'     => 'what-to-eat-before-a-dental-appointment.html',
+        'href'     => 'what-to-eat-before-a-dental-appointment.php',
         'image'    => 'images/what-to-eat-before-a-dental-appointment.jpg',
         'title'    => 'What to Eat Before a Dental Appointment: Foods to Choose & Avoid',
         'date'     => 'September 21, 2026',
@@ -41,7 +41,7 @@ $posts = [
         'excerpt'  => "If you are wondering what to eat before a dental appointment, the good news is that you usually do not need to overthink it.For a routine dental examination or cleaning, most people can eat normally unless their dentist has given different instructions.",
     ],
     [
-        'href'     => 'bone-health-for-dental-implants.html',
+        'href'     => 'bone-health-for-dental-implants.php',
         'image'    => 'images/bone-health-for-dental-implants.jpg',
         'title'    => 'Why Bone Health Matters Before Getting Dental Implants',
         'date'     => 'September 14 , 2026',
@@ -49,7 +49,7 @@ $posts = [
         'excerpt'  => "If you are considering dental implants, the conversation should not start and end with the replacement tooth. The foundation underneath it matters just as much. Bone health for dental implants plays an important role in determining whether an implant has enough support for proper placement and healing.",
     ],
     [
-        'href'     => 'can-a-cracked-tooth-be-saved-with-a-root-canal.html',
+        'href'     => 'can-a-cracked-tooth-be-saved-with-a-root-canal.php',
         'image'    => 'images/can-a-cracked-tooth-be-saved-with-a-root-canal.jpg',
         'title'    => 'Can a Cracked Tooth Be Saved With Root Canal Treatment?',
         'date'     => 'September 7 , 2026',
@@ -57,7 +57,7 @@ $posts = [
         'excerpt'  => "If you have a cracked tooth, the first question is usually simple: can a cracked tooth be saved with a root canal? Sometimes, yes. But a root canal cannot repair the crack itself. It treats damage or infection inside the tooth, while the remaining tooth structure must still be strong enough to restore and protect.",
     ],
     [
-        'href'     => 'best-invisalign-dentist-paschim-vihar.html',
+        'href'     => 'best-invisalign-dentist-paschim-vihar.php',
         'image'    => 'images/blog_img4.jpg',
         'title'    => 'Best Invisalign Dentist Paschim Vihar',
         'date'     => 'March 17, 2026',
@@ -65,7 +65,7 @@ $posts = [
         'excerpt'  => "Looking for the best Invisalign dentist in Paschim Vihar? Get expert guidance, advanced clear aligner treatment, and a confident smile makeover tailored just for you.",
     ],
     [
-        'href'     => 'expert-tmj-disorder-treatment-in-paschim-vihar.html',
+        'href'     => 'expert-tmj-disorder-treatment-in-paschim-vihar.php',
         'image'    => 'images/blog_img5.jpg',
         'title'    => 'Expert TMJ Disorder Treatment in Paschim Vihar',
         'date'     => 'March 17, 2026',
@@ -73,7 +73,7 @@ $posts = [
         'excerpt'  => "Experiencing jaw pain, headaches, or clicking sounds while chewing? Get expert TMJ disorder treatment in Paschim Vihar with advanced diagnosis and personalized care to relieve pain and restore comfort.",
     ],
     [
-        'href'     => 'invisalign-treatment-plan.html',
+        'href'     => 'invisalign-treatment-plan.php',
         'image'    => 'images/invisalign-treatment-plan.jpg',
         'title'    => 'Invisalign treatment plan',
         'date'     => 'March 27, 2026',
@@ -81,7 +81,7 @@ $posts = [
         'excerpt'  => "An Invisalign treatment plan is a customized process designed to straighten your teeth using clear, removable aligners. The treatment begins with a detailed dental examination and digital scan of your teeth to create a precise 3D model.",
     ],
     [
-        'href'     => 'is-smile-makeover-permanent-how-long-does-it-last.html',
+        'href'     => 'is-smile-makeover-permanent-how-long-does-it-last.php',
         'image'    => 'images/is-smile-makeover-permanent-how-long-does-it-last.jpg',
         'title'    => 'Is Smile Makeover Permanent? Duration, Results & Longevity Explained',
         'date'     => 'March 27, 2026',
@@ -89,7 +89,7 @@ $posts = [
         'excerpt'  => "A smile makeover can dramatically improve the appearance of your teeth using treatments like veneers, teeth whitening, dental crowns, or orthodontics. While some procedures provide long-lasting or permanent results, the overall longevity of a smile makeover depends on the type of treatment, oral hygiene, and lifestyle habits.",
     ],
     [
-        'href'     => 'dental-care-in-india-for-usa-patients.html',
+        'href'     => 'dental-care-in-india-for-usa-patients.php',
         'image'    => 'images/dental-care-in-india-for-usa-patients1.jpg',
         'title'    => 'Dental Care in India for USA Patients, NRIs & Tourists',
         'date'     => 'April 22, 2026',
@@ -97,7 +97,7 @@ $posts = [
         'excerpt'  => "Dental care in India offers high-quality and cost-effective treatments for USA patients, NRIs, and international tourists. From routine check-ups and teeth whitening to advanced procedures like dental implants, crowns, and full smile makeovers, patients receive world-class care.",
     ],
     [
-        'href'     => 'types-of-teeth-and-their-functions.html',
+        'href'     => 'types-of-teeth-and-their-functions.php',
         'image'    => 'images/types-of-teeth-and-their-functions.jpg',
         'title'    => '4 Types of Teeth & Their Functions',
         'date'     => 'April 22, 2026',
@@ -105,7 +105,7 @@ $posts = [
         'excerpt'  => "The human mouth contains four main types of teeth, each designed for a specific function in the chewing process. Incisors are sharp and used for cutting food, while canines help in tearing tougher items.Premolars assist in crushing and grinding, and molars perform the main task of grinding food into smaller pieces for easy digestion.",
     ],
     [
-        'href'     => 'how-to-choose-dental-clinic-for-international-patients.html',
+        'href'     => 'how-to-choose-dental-clinic-for-international-patients.php',
         'image'    => 'images/how-to-choose-dental-clinic-for-international-patients.jpg',
         'title'    => 'How to Choose the Best Dental Clinic for International Patients Traveling Abroad',
         'date'     => 'May 07, 2026',
@@ -113,7 +113,7 @@ $posts = [
         'excerpt'  => "Choosing the best dental clinic abroad requires careful research to ensure safe, affordable, and high-quality treatment. Patients should check the clinic’s certifications, dentist experience, and advanced technology like digital scans and modern equipment. Reading verified reviews, comparing treatment plans, and confirming hygiene standards can also help avoid risks and ensure better long-term results.",
     ],
     [
-        'href'     => 'first-dental-appointment-delhi-preparation-what-to-expect.html',
+        'href'     => 'first-dental-appointment-delhi-preparation-what-to-expect.php',
         'image'    => 'images/first-dental-appointment-delhi-preparation-what-to-expect.png',
         'title'    => 'How to Prepare for the First Dental Appointment in Delhi – Here’s What to Expect',
         'date'     => 'May 17, 2026',
@@ -121,7 +121,7 @@ $posts = [
         'excerpt'  => "Your first dental appointment in Delhi usually includes a complete oral checkup to examine teeth and gums properly. Dentists may suggest X-rays to detect hidden issues, while professional cleaning helps remove plaque and stains. Patients should share medical history and discuss concerns openly to receive suitable treatment and maintain better oral health.",
     ],
     [
-        'href'      => 'can-tmj-disorder-cause-headaches-and-migraines.html',
+        'href'      => 'can-tmj-disorder-cause-headaches-and-migraines.php',
         'image'     => 'images/tmj-disorder-headaches-migraines-dental-care-n-cure.jpg.jpeg',
         'title'     => 'Can TMJ Disorder Cause Headaches and Migraines? ',
         'date'      => 'July 14, 2026',
@@ -130,7 +130,7 @@ $posts = [
         'excerpt'   => "TMJ disorder, headaches and migraines are more connected than most people realize. Many patients keep treating headaches for years without knowing the real root cause is in the jaw joint. At Dental Care 'N' Cure, we often see patients walking in suffering from chronic headaches, only to discover that the real issue is related to the temporomandibular joint disorder (TMJ).",
     ],
     [
-        'href'      => 'why-do-teeth-wear-down.html',
+        'href'      => 'why-do-teeth-wear-down.php',
         'image'     => 'images/why-do-teeth-wear-down-causes-symptoms-prevention-dental-care-n-cure.jpg.jpeg',
         'title'     => 'Why Do Teeth Wear Down? ',
         'date'      => 'July 15, 2026',
@@ -139,7 +139,7 @@ $posts = [
         'excerpt'   => "If you have ever looked in the mirror and thought your teeth look shorter than before, you are not imagining things. Many people searching for why do teeth wear down are actually noticing early signs of enamel loss or bite-related stress.",
     ],
     [
-        'href'      => 'can-you-eat-after-getting-a-crown.html',
+        'href'      => 'can-you-eat-after-getting-a-crown.php',
         'image'     => 'images/can-you-eat-after-getting-a-crown.jpg',
         'title'     => 'Can You Eat After Getting a Crown? What to Eat, When to Eat & Foods to Avoid',
         'date'      => 'August 21, 2026',
@@ -148,7 +148,7 @@ $posts = [
         'excerpt'   => "Getting a dental crown can make a damaged tooth feel protected again, but one question often comes immediately after the appointment: can you eat after getting a crown?",
     ],
     [
-        'href'      => 'dental-implant-vs-dental-bridge.html',
+        'href'      => 'dental-implant-vs-dental-bridge.php',
         'image'     => 'images/dental-implant-vs-dental-bridge.jpg',
         'title'     => 'Dental Implant vs Dental Bridge: Which Tooth Replacement Option Is Better?',
         'date'      => 'August 21, 2026',
@@ -157,7 +157,7 @@ $posts = [
         'excerpt'   => "Losing a tooth can leave you with a surprisingly long list of questions. Should you replace it? Is a bridge enough? Is an implant worth the extra time?",
     ],
     [
-        'href'      => 'signs-you-may-need-a-root-canal.html',
+        'href'      => 'signs-you-may-need-a-root-canal.php',
         'image'     => 'images/how-do-you-know-if-you-need-a-root-canal.jpg',
         'title'     => 'How Do You Know If You Need a Root Canal? 10 Warning Signs ',
         'date'      => 'August 21, 2026',
@@ -166,7 +166,7 @@ $posts = [
         'excerpt'   => "A toothache can be hard to ignore, especially when it starts ruining your meals, keeps you awake at night, or makes you think twice before taking a sip of hot coffee.",
     ],
     [
-        'href'      => 'root-canal-vs-tooth-extraction.html',
+        'href'      => 'root-canal-vs-tooth-extraction.php',
         'image'     => 'images/root-canal-vs-extraction.jpg',
         'title'     => 'Root Canal vs Tooth Extraction: Which Is Better for a Damaged Tooth?',
         'date'      => 'August 21, 2026',
@@ -175,7 +175,7 @@ $posts = [
         'excerpt'   => "When a damaged tooth starts hurting, most people want the same thing: make it stop. But there can be more than one way to deal with the problem.",
     ],
     [
-        'href'      => 'how-long-does-a-dental-implant-take.html',
+        'href'      => 'how-long-does-a-dental-implant-take.php',
         'image'     => 'images/dental-implant-timeline.jpg',
         'title'     => 'How Long Does a Dental Implant Take From Start to Finish?',
         'date'      => 'September 18, 2026',
@@ -186,7 +186,7 @@ $posts = [
 
     /* ---- Purane posts (original HTML mein commented-out the) ----
     [
-        'href'     => 'secrets-to-cavity-free-mouth.html',
+        'href'     => 'secrets-to-cavity-free-mouth.php',
         'image'    => 'images/blog_img1.jpg',
         'title'    => 'Secrets to cavity free mouth !',
         'date'     => 'March 22, 2022',

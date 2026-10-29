@@ -4,7 +4,7 @@ $pageTitle    = "TMJ disorder Treatment in Paschim Vihar | Dental Care 'N' Cure 
 $pageDesc     = "Get effective TMJ disorder treatment in Paschim Vihar. Expert care for jaw pain, discomfort, and improved jaw function for a healthier, pain-free life.";
 $pageKeywords = "";
 $pageOgTitle  = $pageTitle;
-$pageCanon    = "https://dentalcarencure.com/tmj-disorder-treatment-in-paschim-vihar.html";
+$pageCanon    = "https://dentalcarencure.com/tmj-disorder-treatment-in-paschim-vihar.php";
 $currentPage  = 'services';
 
 include 'includes/header.php';

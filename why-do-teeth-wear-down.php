@@ -90,7 +90,7 @@ include 'includes/header.php';
 
                     <p>
                         At Dental Care 'N' Cure, often recommended by the <a
-                            href="https://dentalcarencure.com/best-dental-clinic-in-delhi.html"> Best dentist in Delhi,
+                            href="https://dentalcarencure.com/best-dental-clinic-in-delhi.php"> Best dentist in Delhi,
                         </a>we see patients who come in feeling tooth sensitivity, noticing worn-down teeth, or
                         struggling with chewing discomfort without realizing the issue develops slowly over time.
                     </p>
@@ -231,7 +231,7 @@ include 'includes/header.php';
                     <p>
                         Some advanced cases may even require evaluation for restorative dentistry procedures or
                         implant-based solutions like <a
-                            href="https://dentalcarencure.com/dental-implant-treatment-in-paschim-vihar.html">Dental
+                            href="https://dentalcarencure.com/dental-implant-treatment-in-paschim-vihar.php">Dental
                             Implant treatment in Paschim Vihar.</a>
                     </p>
 
@@ -350,7 +350,7 @@ include 'includes/header.php';
                         soon as you can. These indications are not likely to get themselves in place.
                         Teeth aren’t supposed to feel shorter every year, and definitely not without a clear reason
                         behind it.
-                        If any of this sounds familiar, you can <a href="https://dentalcarencure.com/contact-us.html">reach out to Dental Care 'N' Cure</a> . A simple check-up can
+                        If any of this sounds familiar, you can <a href="https://dentalcarencure.com/contact-us.php">reach out to Dental Care 'N' Cure</a> . A simple check-up can
                         help figure out what’s causing the wear and what can be done to stop it from getting worse
                         before it turns into something more complicated.
                     </p>
@@ -362,7 +362,7 @@ include 'includes/header.php';
                     <div class="card shadow-sm p-3">
                         <h5>Book Consultation</h5>
                         <p>Get expert Invisalign consultation in Paschim Vihar today.</p>
-                        <a href="contact-us.html" class="btn btn-primary w-100">Book Appointment</a>
+                        <a href="contact-us.php" class="btn btn-primary w-100">Book Appointment</a>
                     </div>
                 </div>
 

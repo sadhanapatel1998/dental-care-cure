@@ -334,7 +334,7 @@ include 'includes/header.php';
                             Punia, whom the clinic identifies as a prosthodontist and implantologist, and the
                             practice provides both dental implants and bridges.</p>
                         <p><strong>Also Read:</strong> <a
-                                href="how-to-choose-dental-clinic-for-international-patients.html">How to Choose the
+                                href="how-to-choose-dental-clinic-for-international-patients.php">How to Choose the
                                 Best Dental Clinic for International Patients Traveling Abroad</a></p>
                     </div>
                 </div>
@@ -370,7 +370,7 @@ include 'includes/header.php';
                         <p>What a correct choice is depends on your oral health, remaining teeth, gums, jawbone,
                             bite, treatment objectives, and long-term maintenance needs.</p>
                         <p>If you are indecisive about which option is a better fit for you, <a
-                                href="contact-us.html" class="article-cta">contact Dental Care 'N' Cure</a> now to
+                                href="contact-us.php" class="article-cta">contact Dental Care 'N' Cure</a> now to
                             book a dental consultation and talk to us about the tooth replacement option that best
                             meets your requirements.</p>
                     </div>

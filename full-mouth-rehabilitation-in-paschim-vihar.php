@@ -4,7 +4,7 @@ $pageTitle    = "Full Mouth Rehabilitation in Paschim Vihar | Painless Care | Be
 $pageDesc     = "Get expert gum surgery treatment in Paschim Vihar. Painless, advanced, and safe procedures to restore healthy gums and enhance your smile.";
 $pageKeywords = "";
 $pageOgTitle  = $pageTitle;
-$pageCanon    = "https://dentalcarencure.com/full-mouth-rehabilitation-in-paschim-vihar.html";
+$pageCanon    = "https://dentalcarencure.com/full-mouth-rehabilitation-in-paschim-vihar.php";
 $currentPage  = 'services';
 
 include 'includes/header.php';
@@ -93,7 +93,7 @@ include 'includes/header.php';
 
                         <strong>Treatments Included in Full Mouth Rehabilitation</strong><br />
 
-                       The rehabilitation plans devised by us encompass all restorative as well as cosmetic measures—crowns and bridges to reconstruct tooth structure, <a href="https://dentalcarencure.com/contact-us.html"> <strong> dental implants </strong></a> for the permanent replacement of teeth, veneers for the aesthetic part of the whole process, root therapy for infected teeth, orthodontic aligners or braces for correcting the bite, and dentures when needed. By combining these treatments, <strong>Full Mouth Rehabilitation in Paschim Vihar</strong> at Dental Care N Cure can restore function, strength, and beauty to the teeth, thus gaining health and good appearance for a long time.
+                       The rehabilitation plans devised by us encompass all restorative as well as cosmetic measures—crowns and bridges to reconstruct tooth structure, <a href="https://dentalcarencure.com/contact-us.php"> <strong> dental implants </strong></a> for the permanent replacement of teeth, veneers for the aesthetic part of the whole process, root therapy for infected teeth, orthodontic aligners or braces for correcting the bite, and dentures when needed. By combining these treatments, <strong>Full Mouth Rehabilitation in Paschim Vihar</strong> at Dental Care N Cure can restore function, strength, and beauty to the teeth, thus gaining health and good appearance for a long time.
 
 
                         <ul class="listitem"> 
@@ -124,7 +124,7 @@ include 'includes/header.php';
                             Dental problems would not affect your self-esteem or cause any further damage to your teeth. The skilled team at Dental Care N Cure offers the most advanced, patient-centered <strong>Full Mouth Rehabilitation in Paschim Vihar</strong> to bring back function, strength, and beauty.
                             <br>
 
-                            Start today with a phone call to us or <a href="https://dentalcarencure.com/contact-us.html"> <strong>book your appointment </strong></a>  in Paschim Vihar to get a healthy, beautiful, and completely functioning smile!
+                            Start today with a phone call to us or <a href="https://dentalcarencure.com/contact-us.php"> <strong>book your appointment </strong></a>  in Paschim Vihar to get a healthy, beautiful, and completely functioning smile!
 
                         </p>
 

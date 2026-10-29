@@ -1,4 +1,4 @@
-﻿$(document).ready(function () {
+$(document).ready(function () {
 
     $("#btn_submit").click(function () {
 
@@ -49,7 +49,7 @@
         });
 
         function fnsuccesscallback(data) {
-            window.location.href = 'thanks.html';
+            window.location.href = 'thanks.php';
         }
         function fnerrorcallback(result) {
             var st = 'Mail could not be send !';
@@ -99,7 +99,7 @@
         });
 
         function fnsuccesscallback(data) {
-            window.location.href = 'thanks.html';
+            window.location.href = 'thanks.php';
         }
         function fnerrorcallback(result) {
             var st = 'Mail could not be send !';
@@ -161,7 +161,7 @@
         });
 
         function fnsuccesscallback(data) {
-            window.location.href = 'thanks.html';
+            window.location.href = 'thanks.php';
         }
         function fnerrorcallback(result) {
             var st = 'Mail could not be send !';

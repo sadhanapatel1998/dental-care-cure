@@ -1,9 +1,9 @@
-﻿<?php
+<?php
 // ---- Page settings ----
 $pageTitle   = "Travel Packing Tips";
 $pageDesc    = "Keep your travel wardrobe fresh and ready to go with a few quick packing tips.";
 $pageOgTitle = "Travel Packing Tips";
-$pageCanon   = "https://dentalcarencure.com/packing-tips.html";
+$pageCanon   = "https://dentalcarencure.com/packing-tips.php";
 $currentPage = 'dental-tourism';
 
 include 'includes/header.php';

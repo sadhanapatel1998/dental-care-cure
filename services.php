@@ -1,10 +1,10 @@
-﻿<?php
+<?php
 // ---- Page settings ----
 $pageTitle    = "Dental Care Services Paschim Vihar | Dental Care ‘n’ Cure";
 $pageDesc     = "Dental care ‘n’ cure clinic offers complete dental solution in Paschim Vihar, Delhi such as tooth whitening, kids dental services, cosmetic dental services etc.";
 $pageKeywords = "";
 $pageOgTitle  = $pageTitle;
-$pageCanon    = "https://dentalcarencure.com/services.html";
+$pageCanon    = "https://dentalcarencure.com/services.php";
 $currentPage  = 'services';
 
 include 'includes/header.php';
@@ -122,7 +122,7 @@ include 'includes/header.php';
 							</div>
 							<div class="panel-body">
 								<p>crowns and bridges are fixed prosthetic devices. Unlike removable devices such as dentures, which you can take out and clean daily, crowns and bridges are cemented onto existing teeth or implants, and can only be removed by a dentist.</p>
-								<a href="dental-crowns.html">More Details<i class="fa fa-plus"></i></a>
+								<a href="dental-crowns.php">More Details<i class="fa fa-plus"></i></a>
 							</div>
 						</div>
 					</div>
@@ -140,7 +140,7 @@ include 'includes/header.php';
 							</div>
 							<div class="panel-body">
 								<p>Dental implants are replacement teeth that look and feel just like your own. One can eat and drink everything without the inconvenience of unretained dentures, partials and missing teeth.</p>
-								<a href="dental-implant.html">More Details<i class="fa fa-plus"></i></a>
+								<a href="dental-implant.php">More Details<i class="fa fa-plus"></i></a>
 							</div>
 						</div>
 					</div>
@@ -158,7 +158,7 @@ include 'includes/header.php';
 							</div>
 							<div class="panel-body">
 								<p>Oral and maxillofacial surgery is a branch of dentistry that deals with the art of diagnosis and treatment of various diseases, pathologies and defects involving the orofacial region</p>
-								<a href="oral-surgery.html">More Details<i class="fa fa-plus"></i></a>
+								<a href="oral-surgery.php">More Details<i class="fa fa-plus"></i></a>
 							</div>
 						</div>
 					</div>
@@ -176,7 +176,7 @@ include 'includes/header.php';
 							</div>
 							<div class="panel-body">
 								<p>Orthodontics is a specialized branch of dentistry that deals with the diagnosis, preventions and corrections of dental and facial irregularities occurring as a result of</p>
-								<a href="orthodontics.html">More Details<i class="fa fa-plus"></i></a>
+								<a href="orthodontics.php">More Details<i class="fa fa-plus"></i></a>
 							</div>
 						</div>
 					</div>
@@ -194,7 +194,7 @@ include 'includes/header.php';
 							</div>
 							<div class="panel-body">
 								<p>Has your dentist told you that you need root canal treatment? If so, you're not alone. Millions of teeth are treated and saved each year with root canal, or endodontic treatment.</p>
-								<a href="root-canal.html">More Details<i class="fa fa-plus"></i></a>
+								<a href="root-canal.php">More Details<i class="fa fa-plus"></i></a>
 							</div>
 						</div>
 					</div>
@@ -214,7 +214,7 @@ include 'includes/header.php';
 							</div>
 							<div class="panel-body">
 								<p>Cosmetic solutions by Dr. Mansi Arora Punia.  A Smile Makeover gives you the opportunity improve your appearance, boost your self-confidence and improve your quality of life.</p>
-								<a href="smile-design.html">More Details<i class="fa fa-plus"></i></a>
+								<a href="smile-design.php">More Details<i class="fa fa-plus"></i></a>
 							</div>
 						</div>
 					</div>
@@ -234,7 +234,7 @@ include 'includes/header.php';
 							</div>
 							<div class="panel-body">
 								<p>tooth whitening lightens teeth and helps to remove stains and discoloration. Whitening is among the most popular cosmetic dental procedures because it can greatly improve how your teeth look.</p>
-								<a href="teeth-whitening.html">More Details<i class="fa fa-plus"></i></a>
+								<a href="teeth-whitening.php">More Details<i class="fa fa-plus"></i></a>
 							</div>
 						</div>
 					</div>

@@ -1,9 +1,9 @@
-﻿<?php
+<?php
 // ---- Page settings ----
 $pageTitle   = "Root Canal Treatment In  Paschim vihar | Dental Care ‘N’ Cure";
 $pageDesc    = "Are you suffering from root canal dental problem? Dental Care N Cure Clinic Paschim Vihar, provides painless root canal treatment by our dentist team.";
 $pageOgTitle = "Root Canal Treatment In  Paschim vihar | Dental Care ‘N’ Cure";
-$pageCanon   = "https://dentalcarencure.com/root-canal.html";
+$pageCanon   = "https://dentalcarencure.com/root-canal.php";
 $currentPage = 'services';
 
 include 'includes/header.php';

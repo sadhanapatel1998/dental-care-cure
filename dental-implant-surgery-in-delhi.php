@@ -162,7 +162,7 @@ include 'includes/header.php';
                     <p>
                         Gums play an important role in ensuring success with dental implants, and thus, those who have
                         problems with their gums might need <a
-                            href="https://dentalcarencure.com/gum-treatment-in-delhi.html">Gum Disease Treatment in
+                            href="https://dentalcarencure.com/gum-treatment-in-delhi.php">Gum Disease Treatment in
                             Delhi</a> prior to the procedure.
                     </p>
 
@@ -182,7 +182,7 @@ include 'includes/header.php';
                     </ul>
 
                     <p>
-                        Those suffering from tooth erosion, broken teeth, or bite issues can also opt for <a href="https://dentalcarencure.com/worn-teeth-treatment-in-delhi.html">Worn Teeth Treatment in Delhi</a> to get their smiles back.
+                        Those suffering from tooth erosion, broken teeth, or bite issues can also opt for <a href="https://dentalcarencure.com/worn-teeth-treatment-in-delhi.php">Worn Teeth Treatment in Delhi</a> to get their smiles back.
                     </p>
 
                     <h2 class="mt-4">Before and After Guided Dental Implant Surgery Results</h2>
@@ -241,7 +241,7 @@ include 'includes/header.php';
                     </p>
 
                     <p>
-                        <a href="tel:+919310999214">Call us today</a> and <a href="https://dentalcarencure.com/contact-us.html">schedule an appointment</a> for guided dental implant surgery in Delhi if you wish to restore your smile and better oral function.
+                        <a href="tel:+919310999214">Call us today</a> and <a href="https://dentalcarencure.com/contact-us.php">schedule an appointment</a> for guided dental implant surgery in Delhi if you wish to restore your smile and better oral function.
                     </p>
 
                 </div>
@@ -251,7 +251,7 @@ include 'includes/header.php';
                     <div class="card shadow-sm p-3">
                         <h5>Book Consultation</h5>
                         <p>Get expert dental implant consultation in Paschim Vihar today.</p>
-                        <a href="contact-us.html" class="btn btn-primary w-100">Book Appointment</a>
+                        <a href="contact-us.php" class="btn btn-primary w-100">Book Appointment</a>
                     </div>
                 </div>
 

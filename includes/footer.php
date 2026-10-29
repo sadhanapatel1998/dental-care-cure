@@ -39,14 +39,14 @@
                         <aside class="widget widget-links">
                             <h3 class="widget-title">Our Services</h3>
                             <ul>
-                                <li><a href="cosmetic-dentistry.html" title=" Cosmetic Dentistry">Cosmetic Dentistry</a></li>
-                                <li><a href="dental-crowns.html" title="Dental Crowns and Tooth Bridges">Dental Crowns &amp; Tooth Bridges </a></li>
-                                <li><a href="dental-implant.html" title="Dental Implants">Dental Implants</a></li>
-                                <li><a href="oral-surgery.html" title="Oral Surgery">Oral Surgery</a></li>
-                                <li><a href="orthodontics.html" title="Orthodontics">Orthodontics</a></li>
-                                <li><a href="root-canal.html" title="Root Canals">Root Canals</a></li>
-                                <li><a href="smile-design.html" title="Smile Design">Smile Design</a></li>
-                                <li><a href="teeth-whitening.html">Teeth Whitening</a></li>
+                                <li><a href="cosmetic-dentistry.php" title=" Cosmetic Dentistry">Cosmetic Dentistry</a></li>
+                                <li><a href="dental-crowns.php" title="Dental Crowns and Tooth Bridges">Dental Crowns &amp; Tooth Bridges </a></li>
+                                <li><a href="dental-implant.php" title="Dental Implants">Dental Implants</a></li>
+                                <li><a href="oral-surgery.php" title="Oral Surgery">Oral Surgery</a></li>
+                                <li><a href="orthodontics.php" title="Orthodontics">Orthodontics</a></li>
+                                <li><a href="root-canal.php" title="Root Canals">Root Canals</a></li>
+                                <li><a href="smile-design.php" title="Smile Design">Smile Design</a></li>
+                                <li><a href="teeth-whitening.php">Teeth Whitening</a></li>
                             </ul>
                         </aside>
                     </div>

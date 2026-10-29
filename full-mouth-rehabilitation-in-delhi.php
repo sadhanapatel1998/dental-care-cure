@@ -259,7 +259,7 @@ include 'includes/header.php';
                     </p>
 
                     <p>
-                        Patients from <a href="https://dentalcarencure.com/full-mouth-rehabilitation-in-paschim-vihar.html">Paschim Vihar,</a>  <a href="https://dentalcarencure.com/full-mouth-rehabilitation-in-punjabi-bagh.html">Punjabi Bagh,</a>  Janakpuri,  <a href="https://dentalcarencure.com/full-mouth-rehabilitation-in-meera-bagh.html">Meera Bagh,</a> Rajouri Garden, Vikaspuri, Uttam Nagar, and nearby West Delhi areas prefer our full mouth rehabilitation in Delhi for complete smile restoration.
+                        Patients from <a href="https://dentalcarencure.com/full-mouth-rehabilitation-in-paschim-vihar.php">Paschim Vihar,</a>  <a href="https://dentalcarencure.com/full-mouth-rehabilitation-in-punjabi-bagh.php">Punjabi Bagh,</a>  Janakpuri,  <a href="https://dentalcarencure.com/full-mouth-rehabilitation-in-meera-bagh.php">Meera Bagh,</a> Rajouri Garden, Vikaspuri, Uttam Nagar, and nearby West Delhi areas prefer our full mouth rehabilitation in Delhi for complete smile restoration.
                     </p>
 
                     <h2 class="mt-4">Real Patient Experiences</h2>
@@ -314,7 +314,7 @@ include 'includes/header.php';
                     <div class="card shadow-sm p-3">
                         <h5>Book Consultation</h5>
                         <p>Get expert full mouth rehabilitation consultation in Paschim Vihar today.</p>
-                        <a href="contact-us.html" class="btn btn-primary w-100">Book Appointment</a>
+                        <a href="contact-us.php" class="btn btn-primary w-100">Book Appointment</a>
                     </div>
                 </div>
 

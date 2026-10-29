@@ -1,9 +1,9 @@
-﻿<?php
+<?php
 // ---- Page settings ----
 $pageTitle   = "Best Orthodontist In Paschim Vihar | Dental Care N Cure";
 $pageDesc    = "Choose one of the Best Orthodontist and Endodontist in Paschim Vihar, West Delhi by Dr. Mansi Arora Punia Clinic, using modern system less painful wires, Lingual Braces and elastic";
 $pageOgTitle = "Best Orthodontist In Paschim Vihar | Dental Care N Cure";
-$pageCanon   = "https://dentalcarencure.com/orthodontics.html";
+$pageCanon   = "https://dentalcarencure.com/orthodontics.php";
 $currentPage = 'services';
 
 include 'includes/header.php';

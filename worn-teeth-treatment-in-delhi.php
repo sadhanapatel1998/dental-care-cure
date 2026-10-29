@@ -322,7 +322,7 @@ include 'includes/header.php';
                     <h3 class="mt-4">Schedule An Appointment for Eroded Teeth Treatment Today</h3>
 
                     <p>
-                        Tooth decay can impact your health and appearance. Dental Care N Cure is one of the top dental care clinics that provides <strong>worn teeth treatment in Delhi.</strong> <a href="https://dentalcarencure.com/contact-us.html">Contact us now</a> for your appointment to get stronger, functional teeth.
+                        Tooth decay can impact your health and appearance. Dental Care N Cure is one of the top dental care clinics that provides <strong>worn teeth treatment in Delhi.</strong> <a href="https://dentalcarencure.com/contact-us.php">Contact us now</a> for your appointment to get stronger, functional teeth.
                     </p>
 
                 </div>
@@ -332,7 +332,7 @@ include 'includes/header.php';
                     <div class="card shadow-sm p-3">
                         <h5>Book Consultation</h5>
                         <p>Get expert Invisalign consultation in Paschim Vihar today.</p>
-                        <a href="contact-us.html" class="btn btn-primary w-100">Book Appointment</a>
+                        <a href="contact-us.php" class="btn btn-primary w-100">Book Appointment</a>
                     </div>
                 </div>
 

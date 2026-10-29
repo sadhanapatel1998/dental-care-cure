@@ -4,7 +4,7 @@ $pageTitle    = "Single Sitting RCT in Paschim Vihar | Dental Care ‘N’ Cure 
 $pageDesc     = "Get painless single sitting RCT in Paschim Vihar at Dental Care ‘N’ Cure. Advanced technology, expert dentists & quick relief. Book now!";
 $pageKeywords = "";
 $pageOgTitle  = $pageTitle;
-$pageCanon    = "https://dentalcarencure.com/single-sitting-rct-in-paschim-vihar.html";
+$pageCanon    = "https://dentalcarencure.com/single-sitting-rct-in-paschim-vihar.php";
 $currentPage  = 'services';
 
 include 'includes/header.php';

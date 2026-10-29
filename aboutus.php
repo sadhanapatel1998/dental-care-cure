@@ -194,7 +194,7 @@ include 'includes/header.php';
                     </div>
                     <?php endforeach; ?>
                 </div>
-                <a title="View All Doctors" href="team.html">View All Doctors<i class="fa fa-plus"></i></a>
+                <a title="View All Doctors" href="team.php">View All Doctors<i class="fa fa-plus"></i></a>
             </div>
         </div><!-- Team Section -->
 

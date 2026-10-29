@@ -119,7 +119,7 @@ include 'includes/header.php';
                                     different instructions. A simple, balanced meal can help you avoid feeling hungry
                                     and make it easier to <strong>stay comfortable during the appointment.</strong></p>
                                 <p>For patients visiting a <a
-                                        href="https://dentalcarencure.com/best-dental-clinic-in-delhi.html">Best dental
+                                        href="https://dentalcarencure.com/best-dental-clinic-in-delhi.php">Best dental
                                         clinic in Delhi,</a> including <strong>Dental Care 'N' Cure,</strong> the more
                                     useful question is not “Which food is perfect for my dentist?” but “What will leave
                                     me feeling comfortable and keep my mouth reasonably clean?” A few sensible choices
@@ -158,7 +158,7 @@ include 'includes/header.php';
                                     arrive ready for your dental examination, dental cleaning, or other dental
                                     procedure.
                                 </p>
-                                <p><strong>Also Read:</strong> <a href="https://dentalcarencure.com/can-you-eat-after-getting-a-crown.html">Can You Eat After Getting a Crown?</a></p>
+                                <p><strong>Also Read:</strong> <a href="https://dentalcarencure.com/can-you-eat-after-getting-a-crown.php">Can You Eat After Getting a Crown?</a></p>
                             </div>
                         </div>
                     </div>
@@ -358,13 +358,13 @@ include 'includes/header.php';
                             individualized instructions.</p>
 
                         <p>The same applies if you are scheduled for more involved treatment such as a tooth
-                            extraction, root canal, or <a href="https://dentalcarencure.com/full-mouth-rehabilitation-in-delhi.html">Full Mouth Rehabilitation in Delhi.</a> Your preparation should
+                            extraction, root canal, or <a href="https://dentalcarencure.com/full-mouth-rehabilitation-in-delhi.php">Full Mouth Rehabilitation in Delhi.</a> Your preparation should
                             follow the actual treatment plan rather than a generic food list.</p>
 
                         <p>A professional dental clinic should be able to tell you whether you can eat normally, need a
                             light meal, or need to follow fasting instructions.</p>
 
-                        <p>For someone searching for the <a href="https://dentalcarencure.com/dental-clinic-in-paschim-vihar.html">Best dental clinic in Paschim Vihar,</a> this kind of clear
+                        <p>For someone searching for the <a href="https://dentalcarencure.com/dental-clinic-in-paschim-vihar.php">Best dental clinic in Paschim Vihar,</a> this kind of clear
                             communication can be just as important as knowing what food to put on your plate.</p>
                     </div>
                 </div>

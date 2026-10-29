@@ -4,7 +4,7 @@ $pageTitle    = "How Long Does a Dental Implant Take? Full Timeline";
 $pageDesc     = "How long does a dental implant take? Learn the complete dental implant timeline, including surgery, healing, osseointegration, and crown placement.";
 $pageKeywords = "";
 $pageOgTitle  = $pageTitle;
-$pageCanon    = "https://dentalcarencure.com/how-long-does-a-dental-implant-take.html";
+$pageCanon    = "https://dentalcarencure.com/how-long-does-a-dental-implant-take.php";
 $currentPage  = 'services';
 
 include 'includes/header.php';
@@ -28,7 +28,7 @@ include 'includes/header.php';
 				  "url": "https://dentalcarencure.com/images/logo-banner.png"
 				}
 			  },
-			  "mainEntityOfPage": "https://dentalcarencure.com/how-long-does-a-dental-implant-take.html"
+			  "mainEntityOfPage": "https://dentalcarencure.com/how-long-does-a-dental-implant-take.php"
 			}
 			</script>
 
@@ -120,7 +120,7 @@ include 'includes/header.php';
                                     there is no single timeline for everyone. A straightforward case may move through
                                     treatment in a few months, while tooth extraction, bone grafting, or other
                                     additional procedures can extend the process. For patients exploring <a
-                                        href="https://dentalcarencure.com/dental-implant-surgery-in-delhi.html">Guided Dental Implant Surgery in Delhi</a>, proper
+                                        href="https://dentalcarencure.com/dental-implant-surgery-in-delhi.php">Guided Dental Implant Surgery in Delhi</a>, proper
                                     planning is an important part of understanding the expected timeline.</p>
                                 <p>At <strong>Dental Care 'N' Cure</strong>, dental implant treatment involves
                                     assessing the mouth, planning implant placement, allowing the implant to heal, and
@@ -159,7 +159,7 @@ include 'includes/header.php';
                                 <p>So, when someone asks, <strong>How long do dental implants take?</strong>, think months rather
                                     than days. The exact dental implant timeline depends on your jawbone, gums,
                                     existing teeth, treatment plan, and whether you need additional procedures.</p>
-                                <p><strong>Also Read:</strong> <a href="root-canal-vs-tooth-extraction.html">Root
+                                <p><strong>Also Read:</strong> <a href="root-canal-vs-tooth-extraction.php">Root
                                         Canal vs Tooth Extraction: Which Is Better for a Damaged Tooth?</a></p>
                             </div>
                         </div>
@@ -324,15 +324,15 @@ include 'includes/header.php';
                         <p>The <strong>longer timeline mainly comes from biology</strong>. Your jawbone needs time to integrate with
                             the implant before the final restoration is placed. Rushing that process would defeat the
                             purpose.</p>
-                        <p>If you are looking for the <a href="https://dentalcarencure.com/best-dental-clinic-in-delhi.html">Best dental clinic in Delhi</a> , focus less on a catchy label and
+                        <p>If you are looking for the <a href="https://dentalcarencure.com/best-dental-clinic-in-delhi.php">Best dental clinic in Delhi</a> , focus less on a catchy label and
                             more on whether the clinic provides appropriate assessment, clear treatment planning,
                             qualified dental professionals, suitable imaging, and proper follow-up.</p>
-                        <p>For patients specifically considering <a href="dental-implant-treatment-in-paschim-vihar.html">Dental
+                        <p>For patients specifically considering <a href="dental-implant-treatment-in-paschim-vihar.php">Dental
                                 Implant treatment in Paschim Vihar</a>, <strong>Dental Care 'N' Cure</strong> provides dental implant
                             services at its clinic in Shubham Enclave, Paschim Vihar, New Delhi. The practice lists
                            <strong>Dr. Mansi Arora Punia</strong>  as its <strong> prosthodontist and implantologist</strong> and states that it has a
                             multidisciplinary team of dental professionals.</p>
-                        <p>You can explore the clinic's <a href="dental-impalnt.html">dental implant treatment
+                        <p>You can explore the clinic's <a href="dental-implant.php">dental implant treatment
                                 information</a> when researching your options.</p>
                     </div>
                 </div>

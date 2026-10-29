@@ -1,8 +1,8 @@
-﻿<?php
+<?php
 // ---- Page settings ----
 $pageTitle = "Dental Care N Cure Clinic New Delhi- Thank You For Visit";
 $pageDesc  = "Dentalcarencure offer best dental treatment in Paschim Vihar, New Delhi.";
-$pageCanon = "https://dentalcarencure.com/thanks.html";
+$pageCanon = "https://dentalcarencure.com/thanks.php";
 ?>
 <!DOCTYPE html>
 <!--[if lt IE 7 ]> <html class="ie6"> <![endif]-->
@@ -159,7 +159,7 @@ $pageCanon = "https://dentalcarencure.com/thanks.html";
 				<div class="container">
 					<div class="row">
 						<div class="col-md-3 logo-block pull-left">
-							<a href="index.html" title="Logo"><img src="images/logo.png" class="phlogo" alt="Logo" style="width: 180px;
+							<a href="index.php" title="Logo"><img src="images/logo.png" class="phlogo" alt="Logo" style="width: 180px;
     margin-top: 5px;" /></a>
 						</div>
 						<div class="col-md-9"><div class="location">

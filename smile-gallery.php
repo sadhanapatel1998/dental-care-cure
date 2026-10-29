@@ -1,10 +1,10 @@
-﻿<?php
+<?php
 // ---- Page settings ----
 $pageTitle    = "Smile Gallery Dental Clinic | Dental Care 'N' Cure";
 $pageDesc     = "View before and after images of real patient smiles showing various treatments and services which we offer at Dental Care 'N' Cure Clinic in Paschim Vihar.";
 $pageKeywords = "";
 $pageOgTitle  = $pageTitle;
-$pageCanon    = "https://dentalcarencure.com/smile-gallery.html";
+$pageCanon    = "https://dentalcarencure.com/smile-gallery.php";
 $currentPage  = 'gallery';
 
 include 'includes/header.php';

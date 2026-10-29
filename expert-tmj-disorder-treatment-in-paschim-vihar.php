@@ -125,7 +125,7 @@ include 'includes/header.php';
                     <h2 class="mt-4">TMJ Disorder Treatment in Paschim Vihar and Best Dental Clinic in Paschim Vihar</h2>
 
                     <p>In case you want to get <strong><a
-                                href="https://dentalcarencure.com/tmj-disorder-treatment-in-paschim-vihar.html">TMJ
+                                href="https://dentalcarencure.com/tmj-disorder-treatment-in-paschim-vihar.php">TMJ
                                 disorder Treatment in Paschim Vihar,</a></strong> the selection of the Best dental
                         clinic in Paschim Vihar is important towards proper diagnosis and effective treatment. TMJ
                         issues demand an elaborate clinical assessment, radiography, and individualized management plan.
@@ -277,7 +277,7 @@ include 'includes/header.php';
 
                     <p>Early TMJ disorder Treatment in Paschim Vihar is a painkiller as well as safe guarder to your
                         long-term oral health. Going to the <strong><a
-                                href="https://dentalcarencure.com/best-dental-clinic-in-delhi.html">Best dental clinic
+                                href="https://dentalcarencure.com/best-dental-clinic-in-delhi.php">Best dental clinic
                                 in Delhi</a></strong> makes sure that you get a well-structured care, where both comfort
                         and functionality are put into consideration.
                     </p>
@@ -336,7 +336,7 @@ include 'includes/header.php';
                     <div class="card shadow-sm p-3">
                         <h5>Book Consultation</h5>
                         <p>Get expert TMJ consultation in Paschim Vihar today.</p>
-                        <a href="contact-us.html" class="btn btn-primary w-100">Book Appointment</a>
+                        <a href="contact-us.php" class="btn btn-primary w-100">Book Appointment</a>
                     </div>
                 </div>
 

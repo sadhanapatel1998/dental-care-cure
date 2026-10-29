@@ -159,7 +159,7 @@ include 'includes/header.php';
                         opposed to the traditional braces, there are no wires, no brackets and fewer emergency visits,
                         as a result of breakages.
 
-                        Being the <strong><a href="https://dentalcarencure.com/best-dental-clinic-in-delhi.html">best
+                        Being the <strong><a href="https://dentalcarencure.com/best-dental-clinic-in-delhi.php">best
                                 dental clinic in Delhi,</a></strong> Dental Care N Cure is targeted at the high-level
                         orthodontic and patient-oriented technology. Aligners are designed with scans of the digital
                         scans to fit perfectly and yield positive outcomes. This new treatment is a hit among the
@@ -355,7 +355,7 @@ include 'includes/header.php';
                         your smile more confident, it is high time to make a step.
 
                         To make your consultation <strong><a
-                                href="https://dentalcarencure.com/contact-us.html">appointment</a></strong> and start
+                                href="https://dentalcarencure.com/contact-us.php">appointment</a></strong> and start
                         your Invisalign process, be sure to call us
                         today at Dental Care 'N' Cure.
                     </p>
@@ -378,7 +378,7 @@ include 'includes/header.php';
                     <div class="card shadow-sm p-3">
                         <h5>Book Consultation</h5>
                         <p>Get expert Invisalign consultation in Paschim Vihar today.</p>
-                        <a href="contact-us.html" class="btn btn-primary w-100">Book Appointment</a>
+                        <a href="contact-us.php" class="btn btn-primary w-100">Book Appointment</a>
                     </div>
 
                 </div>

@@ -3,7 +3,7 @@
 $pageTitle   = "Root Canal vs Tooth Extraction: Which Is Better for a Tooth?";
 $pageDesc    = "Root canal vs extraction: learn when each treatment is recommended, their benefits, recovery, costs, and how dentists decide which option is right for you.";
 $pageOgTitle = "Root Canal vs Tooth Extraction: Which Is Better for a Tooth?";
-$pageCanon   = "https://dentalcarencure.com/root-canal-vs-tooth-extraction.html";
+$pageCanon   = "https://dentalcarencure.com/root-canal-vs-tooth-extraction.php";
 $currentPage = 'services';
 
 include 'includes/header.php';
@@ -29,7 +29,7 @@ include 'includes/header.php';
               "url": "https://dentalcarencure.com/images/logo-banner.png"
             }
           },
-          "mainEntityOfPage": "https://dentalcarencure.com/root-canal-vs-tooth-extraction.html"
+          "mainEntityOfPage": "https://dentalcarencure.com/root-canal-vs-tooth-extraction.php"
         }
         </script>
 
@@ -122,7 +122,7 @@ include 'includes/header.php';
                                     tooth</p> -->
 
                                 <p>When a damaged tooth starts hurting, most people want one thing: for it to stop. But
-                                    there is often more than one way to get there. <a href="root-canal.html">Root canal
+                                    there is often more than one way to get there. <a href="root-canal.php">Root canal
                                         treatment</a> removes infected or inflamed tissue from inside the tooth while
                                     keeping the natural tooth in place. Tooth extraction, on the other hand, removes the
                                     tooth altogether. So when it comes to root canal vs extraction, which option is
@@ -199,7 +199,7 @@ include 'includes/header.php';
                             avoids the immediate consequences of tooth loss. The AAE recommends considering options to
                             save a natural tooth whenever that is realistically possible.</p>
                         <p>At <strong>Dental Care 'N' Cure</strong> , patients who need endodontic treatment can discuss whether a <a
-                                href="single-sitting-rct-in-paschim-vihar.html">single-sitting RCT in Paschim Vihar</a>
+                                href="single-sitting-rct-in-paschim-vihar.php">single-sitting RCT in Paschim Vihar</a>
                             is suitable for their particular tooth. The number of visits required depends on the
                             clinical situation, so it's best to follow your dentist's assessment rather than assume
                             every root canal follows the same timetable.</p>
@@ -271,13 +271,13 @@ include 'includes/header.php';
                         <p>When a tooth is removed, the resulting space may need attention. Depending on its location
                             and your circumstances, your dentist may discuss options such as a dental implant, dental
                             bridge, or removable partial denture.</p>
-                        <p>A <a href="dental-implant-treatment-in-paschim-vihar.html">dental implant treatment in
+                        <p>A <a href="dental-implant-treatment-in-paschim-vihar.php">dental implant treatment in
                                 Paschim Vihar</a> may be considered when an implant is appropriate for replacing a
                             missing tooth. An implant isn't automatically the right choice for everyone — your dentist
                             needs to assess factors such as your oral health, gums, available bone, and overall
                             treatment plan.</p>
                         <p>If several teeth have significant problems, treatment may call for a broader approach. <a
-                                href="full-mouth-rehabilitation-in-delhi.html">Full mouth rehabilitation in Delhi</a>
+                                href="full-mouth-rehabilitation-in-delhi.php">Full mouth rehabilitation in Delhi</a>
                             can involve comprehensive restorative planning when multiple teeth or areas of the mouth
                             need attention.</p>
                         <p>This is one reason it's useful to think beyond the immediate tooth removal. Extraction may
@@ -333,7 +333,7 @@ include 'includes/header.php';
                             that affect its prognosis. That's why tooth restorability is one of the most important
                             factors in the decision.</p>
                         <p><strong>Also Read:</strong> <a
-                                href="first-dental-appointment-delhi-preparation-what-to-expect.html">How to Prepare for
+                                href="first-dental-appointment-delhi-preparation-what-to-expect.php">How to Prepare for
                                 the First Dental Appointment in Delhi – Here's What to Expect</a></p>
                     </div>
                 </div>

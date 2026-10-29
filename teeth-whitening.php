@@ -1,10 +1,10 @@
-﻿<?php
+<?php
 // ---- Page settings ----
 $pageTitle    = "Teeth Whitening Treatment Paschim Vihar, Delhi | Dental Care ‘n’ Cure";
 $pageDesc     = "Teeth whitening are the way to shine your teeth where it easily removes stains, and pale teeth. Dental Care N Cure Clinic best in teeth whitening treatment in Delhi.";
 $pageKeywords = "";
 $pageOgTitle  = $pageTitle;
-$pageCanon    = "https://dentalcarencure.com/teeth-whitening.html";
+$pageCanon    = "https://dentalcarencure.com/teeth-whitening.php";
 $currentPage  = 'services';
 
 include 'includes/header.php';

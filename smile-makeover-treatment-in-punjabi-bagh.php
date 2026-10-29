@@ -4,7 +4,7 @@ $pageTitle    = "";
 $pageDesc     = "Get a brighter, confident smile with smile makeover treatment in Punjabi Bagh at Dental Care 'N' Cure. Advanced cosmetic dentistry for natural-looking results.";
 $pageKeywords = "Smile Makeover Treatment in Punjabi Bagh";
 $pageOgTitle  = $pageTitle;
-$pageCanon    = "https://dentalcarencure.com/smile-makeover-treatment-in-punjabi-bagh.html";
+$pageCanon    = "https://dentalcarencure.com/smile-makeover-treatment-in-punjabi-bagh.php";
 $currentPage  = 'services';
 include 'includes/header.php';
 ?>
@@ -114,13 +114,13 @@ include 'includes/header.php';
                         </ul>
 
                         <p>
-                          <strong><a href="https://dentalcarencure.com/smile-design.html">Smile Makeover in Paschim Vihar,</a></strong>   transform your smile with personalized cosmetic dentistry, including veneers, whitening, and teeth alignment, right in Paschim Vihar.<strong> Smile Makeover in Meera Bagh,</strong> achieve a confident, radiant smile with expert  smile makeover treatments like veneers, crowns, and whitening in Meera Bagh.
+                          <strong><a href="https://dentalcarencure.com/smile-design.php">Smile Makeover in Paschim Vihar,</a></strong>   transform your smile with personalized cosmetic dentistry, including veneers, whitening, and teeth alignment, right in Paschim Vihar.<strong> Smile Makeover in Meera Bagh,</strong> achieve a confident, radiant smile with expert  smile makeover treatments like veneers, crowns, and whitening in Meera Bagh.
 
                         </p>
 
                         <h3>Specialized Treatment with Modern Technology</h3>
 
-                        <p>Dental Care N Cure not only employs the most advanced dental technologies, but also formulates <strong> smile makeover treatment in Punjabi Bagh </strong> that is unique to every patient according to their dental needs. We utilize the entire inventory of digital tools and modern dental equipment to render your smile makeover journey as exact, comfortable, and predictable as possible. What we offer are treatments that are adjusted to your individual dental anatomy, oral health needs, and aesthetic preferences, thus providing you with naturally looking, durable results. Our approach not only makes you more attractive but also gives you more functionality so that your smile makeover is safe, effective, and completely enjoyable. Explore our services, including </strong><a href="https://dentalcarencure.com/painless-dental-treatments-in-paschim-vihar.html">painless dental treatments in Paschim Vihar,</a> </strong> for a comfortable and stress-free dental experience.</p>
+                        <p>Dental Care N Cure not only employs the most advanced dental technologies, but also formulates <strong> smile makeover treatment in Punjabi Bagh </strong> that is unique to every patient according to their dental needs. We utilize the entire inventory of digital tools and modern dental equipment to render your smile makeover journey as exact, comfortable, and predictable as possible. What we offer are treatments that are adjusted to your individual dental anatomy, oral health needs, and aesthetic preferences, thus providing you with naturally looking, durable results. Our approach not only makes you more attractive but also gives you more functionality so that your smile makeover is safe, effective, and completely enjoyable. Explore our services, including </strong><a href="https://dentalcarencure.com/painless-dental-treatments-in-paschim-vihar.php">painless dental treatments in Paschim Vihar,</a> </strong> for a comfortable and stress-free dental experience.</p>
 
                         <h3>Comfort &amp; Patient-Centered Care</h3>
 
@@ -135,7 +135,7 @@ include 'includes/header.php';
                         <h2>Are you ready for a smile transformation? Make an appointment for today!</h2>
 
                         <p>
-                           You can have the toothy grin that you have always wanted and saw only in dreams, with Dental Care N Cure, <strong>smile makeover treatment in Punjabi Bagh.</strong> Our best dentist in Delhi offers a combination of modern and safe methods, customized smile makeover processes, thus generating natural and very durable results. <strong><a href="https://dentalcarencure.com/contact-us.html">Book a visit</a></strong>  and receive a plan for the treatment that is customized to suit your needs. Our proficient dentists will be with you throughout the process to make you smile with confidence.
+                           You can have the toothy grin that you have always wanted and saw only in dreams, with Dental Care N Cure, <strong>smile makeover treatment in Punjabi Bagh.</strong> Our best dentist in Delhi offers a combination of modern and safe methods, customized smile makeover processes, thus generating natural and very durable results. <strong><a href="https://dentalcarencure.com/contact-us.php">Book a visit</a></strong>  and receive a plan for the treatment that is customized to suit your needs. Our proficient dentists will be with you throughout the process to make you smile with confidence.
 
 
 

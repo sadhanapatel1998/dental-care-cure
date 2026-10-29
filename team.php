@@ -1,10 +1,10 @@
-﻿<?php
+<?php
 // ---- Page settings ----
 $pageTitle    = "Meet Our Team | Dental Care 'N' Cure";
 $pageDesc     = "Experienced dental team at Dental Care 'N' Cure in Paschim Vihar. Dr. Mansi Arora Punia, Dr. Aditi Poddar Sharma, Dr Rupali Kalsi, Dr Arun Sharma, and the rest of our team look forward to meeting you.";
 $pageKeywords = "";
 $pageOgTitle  = $pageTitle;
-$pageCanon    = "https://dentalcarencure.com/team.html";
+$pageCanon    = "https://dentalcarencure.com/team.php";
 $currentPage  = 'home';
 
 include 'includes/header.php';
@@ -99,7 +99,7 @@ she uses the latest in braces and the highest quality of orthodontic materials a
 
 "She believes in constantly updating herself with the latest in orthodontics and is a Life member of Indian Orthodontic Society. She has recently done her Observership in Craniofacial Orthodontics from Chang Gung Memorial Hospital, Taiwan. June 2015". <br/> 
 
-<strong><a href="orthodontics.html" title="Orthodontic Services">Orthodontic Services </a></strong> provided at Dental Care N Cure.
+<strong><a href="orthodontics.php" title="Orthodontic Services">Orthodontic Services </a></strong> provided at Dental Care N Cure.
  <br/> 
 
  <ul class="listitem">
@@ -161,7 +161,7 @@ she uses the latest in braces and the highest quality of orthodontic materials a
 									<p> 
 DR Arun is our consultant oral and maxillofacial surgeon. He Is a specialist in Impacted Tooth Removal &amp; all kinds of Jaw Surgeries.He is extensively trained in all minor and most major oral and maxillofacial procedures including maxillofacial trauma, surgical pathologies like cysts and tumors, TMJ disorders, correction of maxillofacial deformities etc. He has been practising exclusive maxillofacial surgery and has a keen interest in the field of Orthognathic surgeries including correction of Dentofacial anomalies, Maxillofacial trauma including management of soft tissue injuries of the facial region, Distraction Osteogenesis, Dental rehabilitation with Dental Implants. <br/>
 
-He excells in simple and complex <a href="dental-implant.html" title="Dental Implant"> <strong>Dental Implant</strong> </a> management including bone grafts. He has a special interest in management of jaw joint disorders including joint pain and clicking. His zest towards uplifting the cause of dentistry and acquire latest knowledge has seen him attending numerous international conferences with publications in both international and national dental journals.<br/> <br/>
+He excells in simple and complex <a href="dental-implant.php" title="Dental Implant"> <strong>Dental Implant</strong> </a> management including bone grafts. He has a special interest in management of jaw joint disorders including joint pain and clicking. His zest towards uplifting the cause of dentistry and acquire latest knowledge has seen him attending numerous international conferences with publications in both international and national dental journals.<br/> <br/>
 
 <strong>AOCMF Membership</strong><br/>
 
@@ -212,7 +212,7 @@ An affable personality, Dr. Jyoti is the kind of expert in whom you can place co
 
 Dr. Jyoti Anand believes in delivering honest services to the patient of the highest quality. Competent in dental practice and patient management possessing diagnostic skills, she constantly strives to bring in the latest and best technology to provide best to her patients.
 <br/>
-Dr. Jyoti ‘s keen interest is in Preventive, Restorative and <a href="cosmetic-dentistry.html" title="Cosmetic Dentist"> <strong>Cosmetic Dentist</strong> </a> in dental health monitoring, in Tooth Whitening, <a href="root-canal.html" title="Root Canal"> <strong>Root Canal</strong></a> Treatment, <a href="smile-design.html" title="Smile Design"> <strong>Smile Design</strong> </a> , Tooth jewellery, Gum disease, Mobile tooth treatment, management of Foul Smell, Kids Dentistry
+Dr. Jyoti ‘s keen interest is in Preventive, Restorative and <a href="cosmetic-dentistry.php" title="Cosmetic Dentist"> <strong>Cosmetic Dentist</strong> </a> in dental health monitoring, in Tooth Whitening, <a href="root-canal.php" title="Root Canal"> <strong>Root Canal</strong></a> Treatment, <a href="smile-design.php" title="Smile Design"> <strong>Smile Design</strong> </a> , Tooth jewellery, Gum disease, Mobile tooth treatment, management of Foul Smell, Kids Dentistry
 <br/>
 Over the years she has kept abreast with what is state-of-the-art in modalities of treatment, besides equipment &amp; materials. Through conferences, hands-on workshops, personal study &amp; inter-action with Visiting Consultants. She is an active member of the Indian Dental Association.
 

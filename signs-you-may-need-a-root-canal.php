@@ -4,7 +4,7 @@ $pageTitle    = "10 Signs You May Need a Root Canal | Dental Care 'N' Cure";
 $pageDesc     = "Wondering if you need a root canal? Learn 10 warning signs, including persistent tooth pain, sensitivity, swelling, pain when biting, and infection.";
 $pageKeywords = "";
 $pageOgTitle  = $pageTitle;
-$pageCanon    = "https://dentalcarencure.com/signs-you-may-need-a-root-canal.html";
+$pageCanon    = "https://dentalcarencure.com/signs-you-may-need-a-root-canal.php";
 $currentPage  = 'services';
 
 include 'includes/header.php';
@@ -28,7 +28,7 @@ include 'includes/header.php';
 				  "url": "https://dentalcarencure.com/images/logo-banner.png"
 				}
 			  },
-			  "mainEntityOfPage": "https://dentalcarencure.com/how-do-you-know-if-you-need-a-root-canal.html"
+			  "mainEntityOfPage": "https://dentalcarencure.com/how-do-you-know-if-you-need-a-root-canal.php"
 			}
 			</script>
 
@@ -139,7 +139,7 @@ include 'includes/header.php';
                                         clinic in Delhi</a>, the important thing is not simply finding a clinic that
                                     offers Root Canals. You need a proper examination so the actual cause of the
                                     problem can be identified.</p>
-                                <p><strong>Dental Care 'N' Cure</strong> provides <a href="root-canal.html">Root
+                                <p><strong>Dental Care 'N' Cure</strong> provides <a href="root-canal.php">Root
                                         Canals</a> along with other dental treatments at its clinic in Paschim Vihar,
                                     New Delhi. Its website lists root canal treatment among its dental services.</p>
                             </div>
@@ -314,7 +314,7 @@ include 'includes/header.php';
                         <p>That's the most reliable answer to <strong>how do you know you need a root canal</strong>:
                             symptoms can raise suspicion, but a proper dental examination confirms the diagnosis.</p>
                         <p><strong>Also Read:</strong> <a
-                                href="how-to-choose-dental-clinic-for-international-patients.html">How to Choose the
+                                href="how-to-choose-dental-clinic-for-international-patients.php">How to Choose the
                                 Best Dental Clinic for International Patients Traveling Abroad</a></p>
                     </div>
                 </div>
@@ -379,7 +379,7 @@ include 'includes/header.php';
                             teeth may need broader restorative planning. In those situations, treatments can
                             sometimes include crowns, bridges, implants, orthodontic care, gum treatment, or Root
                             Canals as part of a larger plan.</p>
-                        <p>For patients searching for <a href="full-mouth-rehabilitation-in-punjabi-bagh.html">Full
+                        <p>For patients searching for <a href="full-mouth-rehabilitation-in-punjabi-bagh.php">Full
                                 Mouth Rehabilitation in
                                 Punjabi Bagh</a>, the first step should still be a proper examination. The treatment
                             plan should be based on the condition of the teeth and gums, not on a standard package of

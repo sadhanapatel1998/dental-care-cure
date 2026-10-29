@@ -127,7 +127,7 @@ $sections = [
             ],
         ],
         'The same principle applies to hard foods after crown placement and sticky foods after crown placement: if a food requires considerable force to bite, it may be better to avoid it, particularly while you are adjusting to the restoration.',
-        '<strong>Also Read:</strong> <a href="types-of-teeth-and-their-functions.html">4 Types of Teeth: Structure, Function, and Why They Matter</a>',
+        '<strong>Also Read:</strong> <a href="types-of-teeth-and-their-functions.php">4 Types of Teeth: Structure, Function, and Why They Matter</a>',
     ],
     [
         ['h2' => 'What About Hot and Cold Foods After a Crown?'],
@@ -176,7 +176,7 @@ $sections = [
             ],
         ],
         'The American Association of Endodontists also advises patients to contact their dental professional when a bite feels uneven or when a temporary crown or filling comes out after treatment.',
-        '<strong>Also Read:</strong> <a href="first-dental-appointment-delhi-preparation-what-to-expect.html">How to Prepare for the First Dental Appointment in Delhi – Here\'s What to Expect</a>',
+        '<strong>Also Read:</strong> <a href="first-dental-appointment-delhi-preparation-what-to-expect.php">How to Prepare for the First Dental Appointment in Delhi – Here\'s What to Expect</a>',
     ],
     [
         ['h2' => 'Can You Eat After Getting a Crown? The Bottom Line'],
@@ -184,7 +184,7 @@ $sections = [
         'If you have a crown, you need to be careful when you eat hard or sticky foods. If you have a permanent crown, you can usually go back to eating as you did before, as long as you take good care of your crown.',
         'The best way to take care of your crown is really simple. You should do what your dentist tells you to do. Start with foods that\'re easy to eat. Do not chew hard. Take care of your teeth and mouth. If something does not feel right, you should talk to your dentist. A crown is supposed to make it easy for you to eat and smile, not make you worry about your tooth.',
         'If you have questions about your crown, or if your tooth is still sensitive, hurts when you chew, or your crown does not feel like it fits right, you should talk to <a href="https://dentalcarencure.com/">Dental Care \'N\' Cure</a>. The dentists at Dental Care \'N\' Cure can look at your crown, tell you what to do next, and help you figure out what is best for your tooth.',
-        'If you want to get your crown checked, <a href="contact-us.html" class="article-cta">contact Dental Care \'N\' Cure</a> and make an appointment with a dentist today. Dental Care \'N\' Cure can help you with your crown concerns.',
+        'If you want to get your crown checked, <a href="contact-us.php" class="article-cta">contact Dental Care \'N\' Cure</a> and make an appointment with a dentist today. Dental Care \'N\' Cure can help you with your crown concerns.',
     ],
 ];
 
@@ -252,7 +252,7 @@ include 'includes/header.php';
                                     first. Your dentist may recommend temporary changes depending on whether you
                                     received a temporary crown or permanent crown, whether your mouth is still numb,
                                     and how the crown fits. If you are considering broader restorative care, <a
-                                        href="full-mouth-rehabilitation-in-delhi.html">Full Mouth Rehabilitation in
+                                        href="full-mouth-rehabilitation-in-delhi.php">Full Mouth Rehabilitation in
                                         Delhi</a> may also involve crowns as part of a comprehensive treatment plan.
                                     At Dental Care 'N' Cure, clear crown aftercare advice is an important part of
                                     helping patients protect their restored teeth.</p>

@@ -152,7 +152,7 @@ include 'includes/header.php';
                         <p>With one easy step, you will not only look perfect but also your smile will be full of
                             self-assurance. The<strong> best dentist in Delhi</strong> is here waiting for you to provide the best dental
                             care; we are also here to assist you all the time. Come to our <strong>best dental clinic in Delhi</strong>
-                            or set up your <a href="https://dentalcarencure.com/contact-us.html"> <strong>appointment now </strong></a></p>
+                            or set up your <a href="https://dentalcarencure.com/contact-us.php"> <strong>appointment now </strong></a></p>
 
                     </div>
                 </div>

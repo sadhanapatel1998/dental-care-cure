@@ -167,7 +167,7 @@ include 'includes/header.php';
 
 
                         Patients visiting a <a
-                            href="https://dentalcarencure.com/tmj-disorder-treatment-in-paschim-vihar.html">TMJ pain
+                            href="https://dentalcarencure.com/tmj-disorder-treatment-in-paschim-vihar.php">TMJ pain
                             specialist in Paschim Vihar</a> often report symptoms like jaw stiffness, ear pain, and
                         facial discomfort. In many cases, they never connect these issues to headaches until diagnosis.
                         This is where a proper dental and neuromuscular evaluation becomes important.
@@ -258,7 +258,7 @@ include 'includes/header.php';
 
                     <p>
                         Many patients initially visit a <a href="
-                        https://dentalcarencure.com/best-dental-clinic-in-delhi.html"> Best dental clinic in Delhi,</a>
+                        https://dentalcarencure.com/best-dental-clinic-in-delhi.php"> Best dental clinic in Delhi,</a>
                         thinking it’s a tooth issue, but later discover TMJ involvement.
 
                     </p>
@@ -376,7 +376,7 @@ include 'includes/header.php';
                         and prevent worsening conditions.
                         Your jaw does a lot of work silently every day. It deserves attention before it starts
                         complaining through headaches.
-                        <a href="https://dentalcarencure.com/contact-us.html">Contact Dental Care 'N' Cure</a> <strong>today to book your consultation </strong>and get expert evaluation for TMJ disorder, headaches and migraines. Early diagnosis and timely treatment can help restore comfort, reduce pain, and improve your overall quality of life.
+                        <a href="https://dentalcarencure.com/contact-us.php">Contact Dental Care 'N' Cure</a> <strong>today to book your consultation </strong>and get expert evaluation for TMJ disorder, headaches and migraines. Early diagnosis and timely treatment can help restore comfort, reduce pain, and improve your overall quality of life.
 
                     </p>
 
@@ -398,7 +398,7 @@ include 'includes/header.php';
                     <div class="card shadow-sm p-3">
                         <h5>Book Consultation</h5>
                         <p>Get expert Invisalign consultation in Paschim Vihar today.</p>
-                        <a href="contact-us.html" class="btn btn-primary w-100">Book Appointment</a>
+                        <a href="contact-us.php" class="btn btn-primary w-100">Book Appointment</a>
                     </div>
 
                 </div>

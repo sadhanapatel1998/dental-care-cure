@@ -88,7 +88,7 @@ include 'includes/header.php';
                         stuff, it actually
                         explains how you chew, speak, and even smile confidently.
                         If you are looking for dental care or guidance, clinics like <strong> <a
-                                href="https://dentalcarencure.com/dental-clinic-in-paschim-vihar.html">Best dental
+                                href="https://dentalcarencure.com/dental-clinic-in-paschim-vihar.php">Best dental
                                 clinic in Paschim Vihar</a> </strong>
                         (Dental Care 'N' Cure) often educate patients about oral structure before treatments like
                         <strong> Smile
@@ -266,11 +266,11 @@ include 'includes/header.php';
                         <li>Misaligned bite</li>
                         <li><strong>Modern dentistry solves this using:</strong></li>
                         <li><strong><a
-                                    href="https://dentalcarencure.com/teeth-aligners-treatment-in-paschim-vihar.html">Teeth
+                                    href="https://dentalcarencure.com/teeth-aligners-treatment-in-paschim-vihar.php">Teeth
                                     Aligners Treatment in Paschim Vihar</a></strong>
                         </li>
                         <li><strong><a
-                                    href="https://dentalcarencure.com/invisalign-treatment-in-paschim-vihar.html">Invisible
+                                    href="https://dentalcarencure.com/invisalign-treatment-in-paschim-vihar.php">Invisible
                                     braces</a></strong> in Paschim Vihar
                         </li>
                     </ul>
@@ -310,7 +310,7 @@ include 'includes/header.php';
                     </ul>
 
                     <p>It also helps when discussing treatment options like <strong><a
-                                href="https://dentalcarencure.com/smile-design.html">Smile Makeover treatment in Paschim
+                                href="https://dentalcarencure.com/smile-design.php">Smile Makeover treatment in Paschim
                                 Vihar</a></strong> or orthodontic corrections.
                     </p>
 
@@ -345,7 +345,7 @@ include 'includes/header.php';
                     <p>In case you have some dental problems or even wish to learn more about your oral health, there is
                         no need to wait; call Dental Care 'N' Cure. <strong> <a href="tel:+919310999214">Call
                                 now</a></strong> or <strong><a
-                                href="https://dentalcarencure.com/contact-us.html">schedule your
+                                href="https://dentalcarencure.com/contact-us.php">schedule your
                                 appointment</a></strong> and get professional advice and individualized dental treatment
                         to maintain your smile healthy and confident.
                     </p>
@@ -357,7 +357,7 @@ include 'includes/header.php';
                     <div class="card shadow-sm p-3">
                         <h5>Book Consultation</h5>
                         <p>Get expert dental advice at Dental Care 'N' Cure today.</p>
-                        <a href="contact-us.html" class="btn btn-primary w-100">Book Appointment</a>
+                        <a href="contact-us.php" class="btn btn-primary w-100">Book Appointment</a>
                     </div>
                 </div>
 

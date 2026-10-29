@@ -256,41 +256,41 @@ function navActive($page, $current)
                         <div id="navbar" class="navbar-collapse collapse">
                             <ul class="nav navbar-nav">
                                 <li class="<?= navActive('home', $currentPage) ?>"><a href="index.php">Home</a></li>
-                                <li class="<?= navActive('about', $currentPage) ?>"><a href="aboutus.html">About Us</a></li>
+                                <li class="<?= navActive('about', $currentPage) ?>"><a href="aboutus.php">About Us</a></li>
 
                                 <li class="dropdown <?= navActive('services', $currentPage) ?>">
                                     <a class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false"
-                                        href="services.html">Services</a>
+                                        href="services.php">Services</a>
                                     <i class="ddl-switch fa fa-angle-down"></i>
                                     <ul class="dropdown-menu">
-                                        <li><a href="cosmetic-dentistry.html">Cosmetic Dentistry</a></li>
-                                        <li><a href="dental-crowns.html">Dental Crowns and Tooth Bridges</a></li>
-                                        <li><a href="dental-implant.html">Dental Implants</a></li>
-                                        <li><a href="oral-surgery.html">Oral Surgery</a></li>
-                                        <li><a href="orthodontics.html">Orthodontics</a></li>
-                                        <li><a href="root-canal.html">Root Canals</a></li>
-                                        <li><a href="smile-design.html">Smile Design</a></li>
-                                        <li><a href="teeth-whitening.html">Teeth Whitening</a></li>
+                                        <li><a href="cosmetic-dentistry.php">Cosmetic Dentistry</a></li>
+                                        <li><a href="dental-crowns.php">Dental Crowns and Tooth Bridges</a></li>
+                                        <li><a href="dental-implant.php">Dental Implants</a></li>
+                                        <li><a href="oral-surgery.php">Oral Surgery</a></li>
+                                        <li><a href="orthodontics.php">Orthodontics</a></li>
+                                        <li><a href="root-canal.php">Root Canals</a></li>
+                                        <li><a href="smile-design.php">Smile Design</a></li>
+                                        <li><a href="teeth-whitening.php">Teeth Whitening</a></li>
                                     </ul>
                                 </li>
 
-                                <li class="<?= navActive('gallery', $currentPage) ?>"><a href="smile-gallery.html">Smile Gallery </a></li>
-                                <li class="<?= navActive('tour', $currentPage) ?>"><a href="Clinic-tour.html">Clinic Tour</a></li>
-                                <li class="<?= navActive('implants', $currentPage) ?>"><a href="dental-implant.html">Dental Implants</a></li>
+                                <li class="<?= navActive('gallery', $currentPage) ?>"><a href="smile-gallery.php">Smile Gallery </a></li>
+                                <li class="<?= navActive('tour', $currentPage) ?>"><a href="Clinic-tour.php">Clinic Tour</a></li>
+                                <li class="<?= navActive('implants', $currentPage) ?>"><a href="dental-implant.php">Dental Implants</a></li>
 
                                 <li class="dropdown <?= navActive('tourism', $currentPage) ?>">
                                     <a href="#" class="dropdown-toggle" role="button" aria-haspopup="true"
                                         aria-expanded="false">Dental Tourism</a>
                                     <i class="ddl-switch fa fa-angle-down"></i>
                                     <ul class="dropdown-menu">
-                                        <li><a href="dental-tour.html">Dental Tourism</a></li>
+                                        <li><a href="dental-tour.php">Dental Tourism</a></li>
                                         <li><a href="http://dentalcarencure.com/dental-care-india/" target="_blank">Cost Benefit</a></li>
-                                        <li><a href="tourist-destinations.html">Tourist Destinations</a></li>
-                                        <li><a href="packing-tips.html">Packing Tips</a></li>
+                                        <li><a href="tourist-destinations.php">Tourist Destinations</a></li>
+                                        <li><a href="packing-tips.php">Packing Tips</a></li>
                                     </ul>
                                 </li>
 
-                                <li class="<?= navActive('contact', $currentPage) ?>"><a href="contact-us.html">Contact</a></li>
+                                <li class="<?= navActive('contact', $currentPage) ?>"><a href="contact-us.php">Contact</a></li>
                             </ul>
                         </div>
                     </div>

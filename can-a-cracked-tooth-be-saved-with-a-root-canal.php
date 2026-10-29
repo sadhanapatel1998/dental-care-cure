@@ -27,7 +27,7 @@ $extraHead = <<<'HTML'
       "url": "https://dentalcarencure.com/images/logo-banner.png"
     }
   },
-  "mainEntityOfPage": "https://dentalcarencure.com/how-long-does-a-dental-implant-take.html"
+  "mainEntityOfPage": "https://dentalcarencure.com/how-long-does-a-dental-implant-take.php"
 }
 </script>
 
@@ -75,7 +75,7 @@ $sections = [
             ['h3' => 'Split Tooth or Vertical Root Fracture'],
             'A split tooth has developed into separate segments, while a vertical root fracture begins in the root and can extend toward the chewing surface. These conditions can be much more difficult to treat.',
             'The treatment depends on the location and extent of the fracture. Some <strong>vertical root fractures require extraction,</strong> although selected cases may have other treatment possibilities. ',
-            '<strong>Also Read:</strong> <a href="https://dentalcarencure.com/signs-you-may-need-a-root-canal.html">How Do You Know If You Need a Root Canal? 10 Warning Signs</a>',
+            '<strong>Also Read:</strong> <a href="https://dentalcarencure.com/signs-you-may-need-a-root-canal.php">How Do You Know If You Need a Root Canal? 10 Warning Signs</a>',
         ],
     ],
     [
@@ -133,7 +133,7 @@ $sections = [
             'Unfortunately, some cracks go too far for predictable restoration.',
             'If a crack extends below the gum line, the AAE states that the tooth is no longer treatable and will need extraction. A split tooth also cannot be saved intact, although treatment may sometimes preserve part of the tooth depending on the fracture. ',
             '<strong>Cleveland Clinic</strong> similarly notes that severe damage involving the root and nerves can require tooth extraction, followed by replacement options such as a bridge or dental implant.',
-            'If extraction becomes necessary, patients may later discuss replacement options such as <a href="https://dentalcarencure.com/dental-implant-treatment-in-paschim-vihar.html">Dental Implant treatment in Paschim Vihar.</a> The appropriate option depends on the location of the missing tooth, bone condition, overall oral health, and treatment goals.',
+            'If extraction becomes necessary, patients may later discuss replacement options such as <a href="https://dentalcarencure.com/dental-implant-treatment-in-paschim-vihar.php">Dental Implant treatment in Paschim Vihar.</a> The appropriate option depends on the location of the missing tooth, bone condition, overall oral health, and treatment goals.',
         ],
     ],
     [
@@ -142,7 +142,7 @@ $sections = [
             'The answer depends on whether the tooth remains restorable.',
             'When a natural tooth can be predictably treated and restored, preserving it may avoid the additional treatment needed to replace an extracted tooth. The AAE explains that endodontic treatment can allow patients to retain their natural tooth rather than proceeding directly to extraction. ',
             'However, saving every cracked tooth is not possible. A dentist should assess the fracture before recommending treatment.',
-            'If you are searching for the <a href="https://dentalcarencure.com/best-dental-clinic-in-delhi.html">Best dental clinic in Delhi,</a> look for a practice that can properly diagnose the problem and explain why a particular treatment is appropriate for your tooth. At Dental Care \'N\' Cure, the clinic lists root canals, dental crowns and tooth bridges, oral surgery, and dental implants among its services. ',
+            'If you are searching for the <a href="https://dentalcarencure.com/best-dental-clinic-in-delhi.php">Best dental clinic in Delhi,</a> look for a practice that can properly diagnose the problem and explain why a particular treatment is appropriate for your tooth. At Dental Care \'N\' Cure, the clinic lists root canals, dental crowns and tooth bridges, oral surgery, and dental implants among its services. ',
         ],
     ],
     [
@@ -159,7 +159,7 @@ $sections = [
         'content' => [
             'So, can a cracked tooth be saved with a root canal? In many treatable cases, yes—but only when the tooth has enough healthy structure to support restoration and the crack has not extended into a non-restorable area.',
             'A root canal can remove infected or inflamed dental pulp, while a suitable restoration such as a crown can help protect the remaining tooth. But if the crack extends below the gum line or the tooth has split extensively, extraction may be necessary. ',
-            'If you have symptoms of a cracked tooth, <a href="https://dentalcarencure.com/contact-us.html">contact Dental Care \'N\' Cure</a> for an assessment rather than trying to decide from symptoms alone. A proper diagnosis can show whether root canal treatment is suitable or whether another form of cracked tooth treatment would be more appropriate.',
+            'If you have symptoms of a cracked tooth, <a href="https://dentalcarencure.com/contact-us.php">contact Dental Care \'N\' Cure</a> for an assessment rather than trying to decide from symptoms alone. A proper diagnosis can show whether root canal treatment is suitable or whether another form of cracked tooth treatment would be more appropriate.',
         ],
     ],
 ];

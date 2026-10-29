@@ -76,7 +76,7 @@ $sections = [
             'A dental implant consultation commonly includes a dental examination and appropriate dental imaging. Depending on the individual case, this may involve a panoramic X-ray or other imaging techniques.',
             'A <strong>CBCT scan for dental implants</strong> can provide three-dimensional information about the teeth, jaws, and surrounding anatomical structures. The FDA explains that dental cone-beam CT can create 3D images and is used in dentistry for applications including dental implant planning. It also recommends that CBCT should be used when necessary to provide clinical information that other imaging cannot adequately provide.',
             'This type of <strong>3D dental imaging </strong>can help with bone assessment and implant treatment planning. It may allow the dental team to evaluate the available ridge and identify important anatomical structures before deciding where and how an implant should be placed.',
-            '<strong>Also Read:</strong> <a href="https://dentalcarencure.com/signs-you-may-need-a-root-canal.html">How Do You Know If You Need a Root Canal?</a>',
+            '<strong>Also Read:</strong> <a href="https://dentalcarencure.com/signs-you-may-need-a-root-canal.php">How Do You Know If You Need a Root Canal?</a>',
         ],
     ],
     [
@@ -113,7 +113,7 @@ $sections = [
             'A suitable foundation can make implant treatment planning more straightforward, but every patient\'s situation is different. The objective is to create a treatment plan based on the actual condition of your mouth rather than a standard formula.',
             'For someone considering <strong>dental Implant treatment,</strong> a detailed assessment can help identify whether immediate implant placement is appropriate or whether additional treatment should come first.',
             'At <strong>Dental Care \'N\' Cure,</strong> patients can discuss their concerns during the consultation and understand the factors that may influence their treatment. Depending on the clinical findings, the discussion may include implant placement, bone grafting, imaging, healing requirements, or alternatives.',
-            'If you are also researching <a href="https://dentalcarencure.com/dental-implant-surgery-in-delhi.html">Guided Dental Implant Surgery in Delhi, </a>remember that technology supports clinical decision-making; it does not replace it. The right approach still begins with proper examination, diagnosis, and treatment planning.',
+            'If you are also researching <a href="https://dentalcarencure.com/dental-implant-surgery-in-delhi.php">Guided Dental Implant Surgery in Delhi, </a>remember that technology supports clinical decision-making; it does not replace it. The right approach still begins with proper examination, diagnosis, and treatment planning.',
         ],
     ],
     [
@@ -141,7 +141,7 @@ $sections = [
             'A healthy foundation is an important part of successful dental implant treatment. If you are unsure whether your jawbone can support an implant, the best place to start is with a professional evaluation rather than guesswork.',
             '<strong>Dental Care \'N\' Cure</strong> can help you understand your current oral health, available treatment options, and whether further assessment or bone-related treatment may be needed before implant placement.',
             'If you are considering dental implant treatment, <strong>contact Dental Care \'N\' Cure</strong> to schedule a consultation and discuss your dental implant needs with a professional dental team.',
-            '<a href="https://dentalcarencure.com/contact-us.html">Contact Dental Care \'N\' Cure</a> today and take the first step toward a properly planned dental implant treatment.',
+            '<a href="https://dentalcarencure.com/contact-us.php">Contact Dental Care \'N\' Cure</a> today and take the first step toward a properly planned dental implant treatment.',
         ],
     ],
 ];
@@ -210,7 +210,7 @@ include 'includes/header.php';
                                     <strong>Bone health for dental implants</strong> plays an important role in
                                     determining whether an implant has enough support for proper placement and healing.
                                     If you are exploring <a
-                                        href="https://dentalcarencure.com/dental-implant-treatment-in-paschim-vihar.html">Dental
+                                        href="https://dentalcarencure.com/dental-implant-treatment-in-paschim-vihar.php">Dental
                                         Implant treatment in Paschim Vihar,</a> a thorough dental examination should
                                     include an assessment of the jawbone, gums, and surrounding structures before
                                     treatment begins.</p>

@@ -3,7 +3,7 @@
 $pageTitle   = "Painless Dental Treatments in Paschim Vihar | Expert Care Dental Clinic in West Delhi - Dental Care 'N' Cure";
 $pageDesc    = "Get painless dental treatments in Paschim Vihar with advanced technology and expert dentists. Comfortable, safe, and affordable dental care for all ages.";
 $pageOgTitle = "Painless Dental Treatments in Paschim Vihar | Expert Care Dental Clinic in West Delhi - Dental Care 'N' Cure";
-$pageCanon   = "https://dentalcarencure.com/painless-dental-treatments-in-paschim-vihar.html";
+$pageCanon   = "https://dentalcarencure.com/painless-dental-treatments-in-paschim-vihar.php";
 $currentPage = 'services';
 
 include 'includes/header.php';
@@ -163,7 +163,7 @@ include 'includes/header.php';
                             Gentle, relaxing, and completely <strong> painless dental treatments in Paschim Vihar</strong> are the main
                             reasons why hundreds of patients put their trust in Dental Care N Cure. We are the right
                             clinic for you if you want to have comfort, safety, and a smile as your top priorities. Come
-                            and enjoy stress-free dentistry with the team that you can trust. Call now or  <strong><a href="https://dentalcarencure.com/contact-us.html">book your
+                            and enjoy stress-free dentistry with the team that you can trust. Call now or  <strong><a href="https://dentalcarencure.com/contact-us.php">book your
                             appointment today!</a> </strong>
 
                         </p>

@@ -1,9 +1,9 @@
-﻿<?php
+<?php
 // ---- Page settings ----
 $pageTitle   = "Dental Crown & Bridge Treatment Paschim Vihar | Dental Care ‘n’ Cure";
 $pageDesc    = "Cover your tooth by dental crown and bridge treatment in Paschim Vihar, Delhi, visit Dental Care N Cure clinic to recover your smile again.";
 $pageOgTitle = "Dental Crown & Bridge Treatment Paschim Vihar | Dental Care ‘n’ Cure";
-$pageCanon   = "https://dentalcarencure.com/dental-crowns.html";
+$pageCanon   = "https://dentalcarencure.com/dental-crowns.php";
 $currentPage = 'services';
 
 include 'includes/header.php';
@@ -91,7 +91,7 @@ include 'includes/header.php';
 
 <li> Attach a bridge </li>
 
-<li> Cover a <a href="dental-implant.html" title="dental implant "><strong> dental implant</strong> </a></li>
+<li> Cover a <a href="dental-implant.php" title="dental implant "><strong> dental implant</strong> </a></li>
 
 <li> Cover a discolored or poorly shaped tooth </li>
 

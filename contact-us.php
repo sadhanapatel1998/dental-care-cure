@@ -1,10 +1,10 @@
-﻿<?php
+<?php
 // ---- Page settings ----
 $pageTitle    = "Contact Us For All Dental Problems Delhi | Dental Care ‘n’ Cure";
 $pageDesc     = "Contact us at Dental Care N Cure clinic which offer best dental treatment in Paschim Vihar, Punjabi Bagh, Jwala Heri and West Delhi. Call for free consultation 9310999214.";
 $pageKeywords = "";
 $pageOgTitle  = $pageTitle;
-$pageCanon    = "https://dentalcarencure.com/contact-us.html";
+$pageCanon    = "https://dentalcarencure.com/contact-us.php";
 $currentPage  = 'contact';
 
 include 'includes/header.php';

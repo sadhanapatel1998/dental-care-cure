@@ -1,10 +1,10 @@
-﻿<?php
+<?php
 // ---- Page settings ----
 $pageTitle    = "Cosmetic Dentistry In Paschim Vihar | Dental Care 'N' Cure";
 $pageDesc     = "Dr. Mansi Arora Punia Dental Care 'N' Cure Center is the best affordable Cosmetic Dentistry in Paschim Vihar, Punjabi Bagh, New Delhi. Call @ 9310999214 for an appointment.";
 $pageKeywords = "";
 $pageOgTitle  = $pageTitle;
-$pageCanon    = "https://dentalcarencure.com/cosmetic-dentistry.html";
+$pageCanon    = "https://dentalcarencure.com/cosmetic-dentistry.php";
 $currentPage  = 'services';
 
 include 'includes/header.php';
@@ -174,7 +174,7 @@ No prep veneers can be performed composite veneers called by name of Componeers 
 <p><b>Orthodontics in Paschim Vihar</b> is more commonly referred to as “braces,” but this simple term can be misleading, as the science of orthodontics is actually quite precise. </br>
 </br>
 
-<strong>Use of braces /aligners in cosmetic dentistry or <a href="smile-design.html" title="smile makeover"  alt="smile makeover" > smile makeover </a> </strong>
+<strong>Use of braces /aligners in cosmetic dentistry or <a href="smile-design.php" title="smile makeover"  alt="smile makeover" > smile makeover </a> </strong>
 <ul class="listitem">
 <li> Aligning the teeth to achieve a favorable position. </li>
 <li>  Closure of unwanted spaces between teeth </li>
@@ -243,7 +243,7 @@ Internal tooth whitening- single tooth which is root canal treated and discolore
 <li> 
 Office bleach- here teeth whitening is done by a dentist in the dental office. Ore effective </li>
 <li>  Home bleach- bleaching agent is given to patient to apply on teeth. </li>
-<li> <a href="teeth-whitening.html" title="Teeth whitening" alt="Teeth whitening"> <strong>Teeth whitening</strong>  </a> remain one of the most economical ways to enhance your smile. </li>
+<li> <a href="teeth-whitening.php" title="Teeth whitening" alt="Teeth whitening"> <strong>Teeth whitening</strong>  </a> remain one of the most economical ways to enhance your smile. </li>
 </ul>
 
 <h4> Tooth-Colored Fillings </h4>

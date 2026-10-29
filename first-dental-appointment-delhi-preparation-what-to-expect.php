@@ -84,7 +84,7 @@ include 'includes/header.php';
 
                     <p>
                         If you are planning your first visit and searching for a <strong><a
-                                href="https://dentalcarencure.com/best-dental-clinic-in-delhi.html">Best dental clinic
+                                href="https://dentalcarencure.com/best-dental-clinic-in-delhi.php">Best dental clinic
                                 in Delhi,</a></strong> you are already taking a smart step toward better oral health.
                         Clinics like Dental Care 'N' Cure are often chosen by first-time patients because they focus on
                         clear communication and structured care.
@@ -194,7 +194,7 @@ include 'includes/header.php';
                         </li>
                         <li><strong>Location Accessibility</strong> :
                             Areas like Paschim Vihar in Delhi have well-known clinics. Searching for the <a
-                                href="https://dentalcarencure.com/dental-clinic-in-paschim-vihar.html">Best dental</a>
+                                href="https://dentalcarencure.com/dental-clinic-in-paschim-vihar.php">Best dental</a>
                             clinic in Paschim Vihar can help narrow down reliable options.
                         </li>
                         <li><strong>International Patient Services</strong> :
@@ -324,7 +324,7 @@ include 'includes/header.php';
                     <div class="card shadow-sm p-3">
                         <h5>Book Consultation</h5>
                         <p>Book your first dental appointment at Dental Care 'N' Cure today.</p>
-                        <a href="contact-us.html" class="btn btn-primary w-100">Book Appointment</a>
+                        <a href="contact-us.php" class="btn btn-primary w-100">Book Appointment</a>
                     </div>
                 </div>
 
